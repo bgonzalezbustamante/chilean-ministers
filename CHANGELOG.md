@@ -24,7 +24,7 @@ All notable changes to "Data Set on Chilean Ministers (1990-2014)" will be docum
 ## [2.1.0] - 2021-11-27
 ### Added
 - GitHub repository.
-- Badges in SVG on GitHub repository (WIP).
+- Badges in SVG on GitHub repository.
 - License CC-BY Attribution 4.0 International on GitHub repository.
 - Changelog in MD format on GitHub repository.
 - Repository status badge.
