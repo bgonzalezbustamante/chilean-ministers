@@ -114,7 +114,7 @@ The file "Chilean_cabinets_1990_2014.csv" is the data set on Chilean ministers b
 
 - **political_kinship**. Dummy for ministers with political kinship.
 
-A number of other variables can be calculated with aggregate data from different sources considering the appointment dates and departure of officeholders. In addition, data from González-Bustamante and Olivares (2021)[^1] can be used to compare and obtain some variables from cabinet members.
+A number of other variables can be calculated with aggregate data from different sources considering the appointment dates and departure of officeholders. In addition, data from González-Bustamante and Olivares (2021)[^1] can be used to compare and obtain some variables from undersecretaries.
 
 ## License
 
