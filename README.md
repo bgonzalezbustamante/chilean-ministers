@@ -36,7 +36,7 @@ This data is stored with version control on a GitHub repository. Furthermore, a 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- potential_inconsistencies.md \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- potential_inconsistencies.Rmd \
 |-- data \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- chl_ministers.csv 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- Chilean_cabinets_1990_2014.csv 
 
 4 directories and 15 files.
 
@@ -66,7 +66,7 @@ The files will be overwritten if you run the R script contained in "eda_minister
 
 ### Codebook
 
-The file "chl_ministers.csv" is the data set on Chilean undersecretaries between 1990 and 2014. This set contains 232 observations.
+The file "Chilean_cabinets_1990_2014.csv" is the data set on Chilean ministers between 1990 and 2014. This set contains 232 observations.
 
 - **id**. Unique ID for each minister-portfolio observation.
 
