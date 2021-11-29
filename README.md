@@ -22,6 +22,7 @@ This data is stored with version control on a GitHub repository. Furthermore, a 
 |-- CHANGELOG.md \
 |-- chilean-ministers.Rproj \
 |-- CITATION.cff \
+|-- CODE_OF_CONDUCT.md \
 |-- LICENSE.md \
 |-- README.md \
 |-- STATUS.md \
@@ -38,7 +39,7 @@ This data is stored with version control on a GitHub repository. Furthermore, a 
 |-- data \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- Chilean_cabinets_1990_2014.csv 
 
-4 directories and 15 files.
+4 directories and 16 files.
 
 In addition, this README file in Markdown (MD) format provides specific information to ensure the reusability of the data.
 
@@ -126,7 +127,7 @@ Contributions are entirely welcome. You just need to [open an issue](https://git
 
 For more substantial contributions, please fork this repository and make changes. Pull requests are also welcome.
 
-Please read our [code of conduct](CODE-OF-CONDUCT.md) first. Minor contributions will be acknowledged, and significant ones will be considered on our contributor roles taxonomy.
+Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions will be acknowledged, and significant ones will be considered on our contributor roles taxonomy.
 
 ## Citation
 
