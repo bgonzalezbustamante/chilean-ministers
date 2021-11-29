@@ -131,7 +131,7 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B., & Olivares, A. (2021). Data Set on Chilean Ministers (1990-2014) (Version 2.1.0 -- Long Lab) [Data set].
+González-Bustamante, B., & Olivares, A. (2021). Data Set on Chilean Ministers (1990-2014) (Version 2.2.0 -- Sparkling Surf) [Data set].
 
 ## Authors
 
