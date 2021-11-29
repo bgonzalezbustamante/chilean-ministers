@@ -13,6 +13,7 @@ All notable changes to "Data Set on Chilean Ministers (1990-2014)" will be docum
 
 ## [2.2.0] - 2021-11-29
 ### Added
+- Code of conduct in MD format.
 - Exploratory data analysis code (WIP).
 - Potential inconsistencies code (WIP).
 - Zenodo DOI (WIP).
