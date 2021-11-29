@@ -120,6 +120,14 @@ A number of other variables can be calculated with aggregate data from different
 
 This data is released under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](LICENSE.md). This open-access license allows the data to be shared, reused, adapted as long as appropriate acknowledgement is given.
 
+## Contribute
+
+Contributions are entirely welcome. You just need to [open an issue](https://github.com/bgonzalezbustamante/chilean-ministers/issues/new) with your comment or idea.
+
+For more substantial contributions, please fork this repository and make changes. Pull requests are also welcome.
+
+Please read our [code of conduct](CODE-OF-CONDUCT.md) first. Minor contributions will be acknowledged, and significant ones will be considered on our contributor roles taxonomy.
+
 ## Citation
 
 González-Bustamante, B., & Olivares, A. (2021). Data Set on Chilean Ministers (1990-2014) (Version 2.1.0 -- Long Lab) [Data set].
@@ -143,6 +151,6 @@ Alejandro Olivares ([ORCID iD 0000-0001-6934-2437](https://orcid.org/0000-0001-6
 
 ### Latest Revision
 
-[November 27, 2021](CHANGELOG.md).
+[November 29, 2021](CHANGELOG.md).
 
 [^1]: González-Bustamante, B., & Olivares, A. (2021). Data Set on Chilean Undersecretaries (1990-2014) (Version 1.3.1 -- Fragrant Disk) [Data set]. DOI: [10.5281/zenodo.5715384](https://doi.org/10.5281/zenodo.5715384)
