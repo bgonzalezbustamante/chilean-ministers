@@ -29,8 +29,6 @@ This data is stored with version control on a GitHub repository. Furthermore, a 
 |-- code \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- eda_ministers.md \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- eda_ministers.Rmd \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- potential_inconsistencies.md \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- potential_inconsistencies.Rmd \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- eda_ministers_files \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- figure-gfm \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- plot1-1.png \
@@ -41,7 +39,7 @@ This data is stored with version control on a GitHub repository. Furthermore, a 
 |-- data \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- Chilean_cabinets_1990_2014.csv 
 
-4 directories and 18 files.
+4 directories and 16 files.
 
 In addition, this README file in Markdown (MD) format provides specific information to ensure the reusability of the data.
 
