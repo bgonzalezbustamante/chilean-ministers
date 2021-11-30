@@ -156,4 +156,4 @@ Alejandro Olivares ([ORCID iD 0000-0001-6934-2437](https://orcid.org/0000-0001-6
 
 [November 30, 2021](CHANGELOG.md).
 
-[^1]: González-Bustamante, B., & Olivares, A. (2021). Data Set on Chilean Undersecretaries (1990-2014) (Version 1.4.4 -- Yellow Bonus) [Data set]. DOI: [10.5281/zenodo.5715384](https://doi.org/10.5281/zenodo.5715384)
+[^1]: González-Bustamante, B., & Olivares, A. (2021). Data Set on Chilean Undersecretaries (1990-2022) (Version 1.4.4 -- Yellow Bonus) [Data set]. DOI: [10.5281/zenodo.5715384](https://doi.org/10.5281/zenodo.5715384)
