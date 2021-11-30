@@ -77,7 +77,7 @@ The file "**Chilean_cabinets_1990_2014.csv**" in "data" folder is the data set o
 
 - **name**. Officeholder name.
 
-- **sex**. Officeholder sex.
+- **sex**. Officeholder sex.[^1]
 
 - **age**. Officeholder age when was appointed.
 
@@ -87,7 +87,7 @@ The file "**Chilean_cabinets_1990_2014.csv**" in "data" folder is the data set o
 
 - **end_president**. End date of presidential term.
 
-- **ministry**. Portfolio name.
+- **ministry**. Portfolio name.[^2]
 
 - **start_minister**. Officeholder start date.
 
@@ -117,7 +117,7 @@ The file "**Chilean_cabinets_1990_2014.csv**" in "data" folder is the data set o
 
 - **political_kinship**. Dummy for ministers with political kinship.
 
-A number of other variables can be calculated with aggregate data from different sources considering the appointment dates and departure of officeholders. In addition, data from González-Bustamante and Olivares (2021)[^1] can be used to compare and obtain some variables from undersecretaries.
+A number of other variables can be calculated with aggregate data from different sources considering the appointment dates and departure of officeholders. In addition, data from González-Bustamante and Olivares (2021)[^3] can be used to compare and obtain some variables from undersecretaries.
 
 ## License
 
@@ -156,4 +156,6 @@ Alejandro Olivares ([ORCID iD 0000-0001-6934-2437](https://orcid.org/0000-0001-6
 
 [November 30, 2021](CHANGELOG.md).
 
-[^1]: González-Bustamante, B., & Olivares, A. (2021). Data Set on Chilean Undersecretaries (1990-2022) (Version 1.4.4 -- Yellow Bonus) [Data set]. DOI: [10.5281/zenodo.5715384](https://doi.org/10.5281/zenodo.5715384)
+[^1]: In version 2.3.0 (Bold Fog) of the data set, we have corrected the sex of one misclassified observation of the Ricardo Lagos government. This implies a slight drop in the presence of women in the cabinet from 24.53% to 22.64% and small differences in some coefficients of the models in some of our previous publications.
+[^2]: The labels SEGEGOB, SEGPRES and SERNAM corresponds to the following ministries: *Secretaría General de Gobierno*, *Secretaría General de la Presidencia*, and *Servicio Nacional de la Mujer*.
+[^3]: González-Bustamante, B., & Olivares, A. (2021). Data Set on Chilean Undersecretaries (1990-2022) (Version 1.4.4 -- Yellow Bonus) [Data set]. DOI: [10.5281/zenodo.5715384](https://doi.org/10.5281/zenodo.5715384)
