@@ -1,22 +1,22 @@
 "id","country","name","sex","age","president","start_president","end_president","ministry","start_minister","end_minister","non_party","president_party","economist","lawyer","inner_circle","party_leader","exp_executive","exp_congress","exp_ngo","exp_thinktanks","exp_business","political_kinship"
 1,"Chile","Abeliuk Manasevic, René","man",59,"Patricio Aylwin",1990-03-11,1994-03-11,"CORFO",1990-03-11,1994-03-11,0,0,0,1,0,0,0,0,0,0,0,0
-2,"Chile","Albornoz Pollman, Laura","woman",37,"Michelle Bachelet",2006-03-11,2010-03-11,"Servicio Nacional de la Mujer",2006-03-11,2009-10-19,0,0,0,1,0,0,1,0,0,0,0,0
+2,"Chile","Albornoz Pollman, Laura","woman",37,"Michelle Bachelet",2006-03-11,2010-03-11,"SERNAM",2006-03-11,2009-10-19,0,0,0,1,0,0,1,0,0,0,0,0
 3,"Chile","Allamand Zavala, Andrés","man",54,"Sebastián Piñera",2010-03-11,2014-03-11,"Defensa Nacional",2011-01-16,2012-11-05,0,1,0,1,0,1,0,1,1,1,0,1
 4,"Chile","Alvarado Constenla, Luis","man",49,"Patricio Aylwin",1990-03-11,1994-03-11,"Bienes Nacionales",1990-03-11,1994-03-11,0,0,0,0,0,1,0,0,0,0,0,0
-5,"Chile","Alvear Valenzuela, Soledad","woman",40,"Patricio Aylwin",1990-03-11,1994-03-11,"Servicio Nacional de la Mujer",1991-01-03,1994-03-11,0,1,0,1,1,0,1,0,0,0,0,1
+5,"Chile","Alvear Valenzuela, Soledad","woman",40,"Patricio Aylwin",1990-03-11,1994-03-11,"SERNAM",1991-01-03,1994-03-11,0,1,0,1,1,0,1,0,0,0,0,1
 6,"Chile","Alvear Valenzuela, Soledad","woman",49,"Ricardo Lagos",2000-03-11,2006-03-11,"Relaciones Exteriores",2000-03-11,2004-09-29,0,0,0,1,0,0,1,0,0,0,0,1
 7,"Chile","Alvear Valenzuela, Soledad","woman",43,"Eduardo Frei",1994-03-11,2000-03-11,"Justicia",1994-03-11,1999-12-16,0,1,0,1,1,0,1,0,0,0,0,1
 8,"Chile","Ampuero Espinoza, Roberto","man",57,"Sebastián Piñera",2010-03-11,2014-03-11,"Consejo Nacional de la Cultura y las Artes",2013-06-09,2014-03-11,1,0,0,0,1,0,0,0,0,0,0,0
-9,"Chile","Andrade Lara , Carmen","woman",55,"Michelle Bachelet",2006-03-11,2010-03-11,"Servicio Nacional de la Mujer",2009-10-20,2010-03-11,0,1,0,0,1,0,0,0,0,0,0,1
+9,"Chile","Andrade Lara , Carmen","woman",55,"Michelle Bachelet",2006-03-11,2010-03-11,"SERNAM",2009-10-20,2010-03-11,0,1,0,0,1,0,0,0,0,0,0,1
 10,"Chile","Andrade Lara , Osvaldo","man",52,"Michelle Bachelet",2006-03-11,2010-03-11,"Trabajo y Previsión Social",2006-03-11,2008-12-10,0,1,0,1,1,1,1,0,0,0,0,1
 11,"Chile","Aninat Ureta, Eduardo","man",46,"Eduardo Frei",1994-03-11,2000-03-11,"Hacienda",1994-03-11,1999-12-03,0,1,1,0,0,0,0,0,1,1,0,0
 12,"Chile","Antonijevic Hahn, Ingrid","woman",53,"Michelle Bachelet",2006-03-11,2010-03-11,"Economía, Fomento y Reconstrucción",2006-03-11,2006-07-14,0,0,1,0,1,0,1,0,0,0,1,0
 13,"Chile","Arellano Marín, José Pablo","man",44,"Eduardo Frei",1994-03-11,2000-03-11,"Educación",1996-09-28,2000-03-11,0,1,1,0,1,0,1,0,1,1,0,1
-14,"Chile","Armanet Armanet, Pilar","woman",59,"Michelle Bachelet",2006-03-11,2010-03-11,"Secretaría General de Gobierno",2009-12-18,2010-03-11,0,0,0,1,0,0,1,0,0,0,0,0
+14,"Chile","Armanet Armanet, Pilar","woman",59,"Michelle Bachelet",2006-03-11,2010-03-11,"SEGEGOB",2009-12-18,2010-03-11,0,0,0,1,0,0,1,0,0,0,0,0
 15,"Chile","Arrate Mac Niven, Jorge","man",51,"Patricio Aylwin",1990-03-11,1994-03-11,"Educación",1992-09-28,1994-03-11,0,0,0,1,0,1,1,0,1,1,0,0
-16,"Chile","Arrate Mac Niven, Jorge","man",57,"Eduardo Frei",1994-03-11,2000-03-11,"Secretaría General de Gobierno",1998-08-01,1999-06-22,0,0,0,1,0,1,1,0,1,1,0,0
+16,"Chile","Arrate Mac Niven, Jorge","man",57,"Eduardo Frei",1994-03-11,2000-03-11,"SEGEGOB",1998-08-01,1999-06-22,0,0,0,1,0,1,1,0,1,1,0,0
 17,"Chile","Arrate Mac Niven, Jorge","man",52,"Eduardo Frei",1994-03-11,2000-03-11,"Trabajo y Previsión Social",1994-03-11,1998-08-01,0,0,0,1,0,1,1,0,1,1,0,0
-18,"Chile","Arriagada Herrera, Genaro","man",51,"Eduardo Frei",1994-03-11,2000-03-11,"Secretaría General de la Presidencia",1994-03-11,1996-09-28,0,1,0,1,1,1,0,0,1,1,0,0
+18,"Chile","Arriagada Herrera, Genaro","man",51,"Eduardo Frei",1994-03-11,2000-03-11,"SEGPRES",1994-03-11,1996-09-28,0,1,0,1,1,1,0,0,1,1,0,0
 19,"Chile","Artaza Barrios, Osvaldo","man",46,"Ricardo Lagos",2000-03-11,2006-03-11,"Salud",2002-01-07,2003-03-03,0,0,0,0,0,0,0,0,1,1,0,0
 20,"Chile","Aylwin Oyarzún, Mariana","woman",50,"Ricardo Lagos",2000-03-11,2006-03-11,"Educación",2000-03-11,2003-03-03,0,0,0,0,0,1,0,1,0,0,0,1
 21,"Chile","Bachelet Jeria, Michelle","woman",50,"Ricardo Lagos",2000-03-11,2006-03-11,"Defensa Nacional",2002-01-07,2004-09-29,0,1,0,0,0,0,0,0,1,1,0,0
@@ -26,23 +26,23 @@
 25,"Chile","Bates Hidalgo, Luis","man",68,"Ricardo Lagos",2000-03-11,2006-03-11,"Justicia",2003-03-03,2006-03-11,1,0,0,1,0,0,0,0,1,0,0,0
 26,"Chile","Benítez Pereira, María Ignacia","woman",57,"Sebastián Piñera",2010-03-11,2014-03-11,"Medio Ambiente",2010-03-11,2014-03-11,0,0,0,0,0,0,0,0,0,0,0,0
 27,"Chile","Beyer Burgos, Harald","man",47,"Sebastián Piñera",2010-03-11,2014-03-11,"Educación",2011-12-29,2013-04-18,1,0,1,0,1,0,0,0,1,1,0,0
-28,"Chile","Biehl del Rio, John","man",58,"Eduardo Frei",1994-03-11,2000-03-11,"Secretaría General de la Presidencia",1998-08-01,1999-06-22,1,0,0,1,0,0,0,0,0,0,0,0
-29,"Chile","Bilbao Mendezona, Josefina","woman",61,"Eduardo Frei",1994-03-11,2000-03-11,"Servicio Nacional de la Mujer",1994-03-11,2000-03-11,1,0,0,0,1,0,0,0,0,0,0,0
+28,"Chile","Biehl del Rio, John","man",58,"Eduardo Frei",1994-03-11,2000-03-11,"SEGPRES",1998-08-01,1999-06-22,1,0,0,1,0,0,0,0,0,0,0,0
+29,"Chile","Bilbao Mendezona, Josefina","woman",61,"Eduardo Frei",1994-03-11,2000-03-11,"SERNAM",1994-03-11,2000-03-11,1,0,0,0,1,0,0,0,0,0,0,0
 30,"Chile","Bitar Chacra, Sergio","man",67,"Michelle Bachelet",2006-03-11,2010-03-11,"Obras Públicas",2008-01-11,2010-03-11,0,0,0,0,0,1,0,1,1,1,0,0
-31,"Chile","Bitar Chacra, Sergio","woman",62,"Ricardo Lagos",2000-03-11,2006-03-11,"Educación",2003-03-03,2005-12-14,0,1,0,0,1,1,0,1,1,1,0,0
+31,"Chile","Bitar Chacra, Sergio","man",62,"Ricardo Lagos",2000-03-11,2006-03-11,"Educación",2003-03-03,2005-12-14,0,1,0,0,1,1,0,1,1,1,0,0
 32,"Chile","Bitrán Colodro, Eduardo","man",48,"Michelle Bachelet",2006-03-11,2010-03-11,"Obras Públicas",2006-03-11,2008-01-08,0,0,1,0,1,0,0,0,1,1,1,0
 33,"Chile","Blanlot Soza, Vivianne","woman",50,"Michelle Bachelet",2006-03-11,2010-03-11,"Defensa Nacional",2006-03-11,2007-03-26,0,0,1,0,1,0,1,0,1,1,0,0
-34,"Chile","Boeninger Kausel, Edgardo","man",64,"Patricio Aylwin",1990-03-11,1994-03-11,"Secretaría General de la Presidencia",1990-03-11,1994-03-11,0,1,1,0,1,1,1,0,1,1,0,0
-35,"Chile","Brunner Ried, José Joaquín","man",49,"Eduardo Frei",1994-03-11,2000-03-11,"Secretaría General de Gobierno",1994-09-20,1998-08-01,0,0,0,0,1,0,0,0,1,1,0,0
+34,"Chile","Boeninger Kausel, Edgardo","man",64,"Patricio Aylwin",1990-03-11,1994-03-11,"SEGPRES",1990-03-11,1994-03-11,0,1,1,0,1,1,1,0,1,1,0,0
+35,"Chile","Brunner Ried, José Joaquín","man",49,"Eduardo Frei",1994-03-11,2000-03-11,"SEGEGOB",1994-09-20,1998-08-01,0,0,0,0,1,0,0,0,1,1,0,0
 36,"Chile","Bulnes Serrano, Felipe","man",42,"Sebastián Piñera",2010-03-11,2014-03-11,"Educación",2011-07-18,2011-12-29,0,1,0,1,1,0,0,0,0,0,0,1
 37,"Chile","Bulnes Serrano, Felipe","man",40,"Sebastián Piñera",2010-03-11,2014-03-11,"Justicia",2010-03-11,2011-07-18,0,1,0,1,1,0,0,0,0,0,0,1
 38,"Chile","Bunster Betteley, Jorge","man",59,"Sebastián Piñera",2010-03-11,2014-03-11,"Energía",2012-04-03,2014-03-11,1,0,0,0,0,0,0,0,0,0,1,1
 39,"Chile","Campos Quiroga, Jaime","man",47,"Ricardo Lagos",2000-03-11,2006-03-11,"Agricultura",2000-03-11,2006-03-11,0,0,0,1,0,1,0,1,0,0,0,0
 40,"Chile","Chadwick Piñera, Andrés","man",56,"Sebastián Piñera",2010-03-11,2014-03-11,"Interior y Seguridad Pública",2012-11-05,2014-03-11,0,0,0,1,1,1,0,1,1,1,0,1
-41,"Chile","Chadwick Piñera, Andrés","man",55,"Sebastián Piñera",2010-03-11,2014-03-11,"Secretaría General de Gobierno",2011-07-18,2012-11-05,0,0,0,1,1,1,0,1,1,1,0,1
+41,"Chile","Chadwick Piñera, Andrés","man",55,"Sebastián Piñera",2010-03-11,2014-03-11,"SEGEGOB",2011-07-18,2012-11-05,0,0,0,1,1,1,0,1,1,1,0,1
 42,"Chile","Correa Díaz, Germán","man",50,"Patricio Aylwin",1990-03-11,1994-03-11,"Transporte y Telecomunicaciones",1990-03-11,1992-09-28,0,0,0,0,0,0,0,0,0,0,0,0
 43,"Chile","Correa Díaz, Germán","man",54,"Eduardo Frei",1994-03-11,2000-03-11,"Interior",1994-03-11,1994-09-20,0,0,0,0,0,1,0,0,0,0,0,0
-44,"Chile","Correa Rios, Enrique","man",44,"Patricio Aylwin",1990-03-11,1994-03-11,"Secretaría General de Gobierno",1990-03-11,1994-03-11,0,0,0,0,0,0,0,0,0,0,0,0
+44,"Chile","Correa Rios, Enrique","man",44,"Patricio Aylwin",1990-03-11,1994-03-11,"SEGEGOB",1990-03-11,1994-03-11,0,0,0,0,0,0,0,0,0,0,0,0
 45,"Chile","Cortázar Sanz, René","man",55,"Michelle Bachelet",2006-03-11,2010-03-11,"Transporte y Telecomunicaciones",2007-03-27,2010-03-11,0,0,1,0,0,0,1,0,1,0,1,0
 46,"Chile","Cortázar Sanz, René","man",38,"Patricio Aylwin",1990-03-11,1994-03-11,"Trabajo y Previsión Social",1990-03-11,1994-03-11,0,1,1,0,1,0,0,0,1,1,1,0
 47,"Chile","Cruz Coke Carvallo, Luciano","man",39,"Sebastián Piñera",2010-03-11,2014-03-11,"Consejo Nacional de la Cultura y las Artes",2010-03-11,2013-06-06,1,0,0,0,1,0,0,0,0,0,0,1
@@ -55,9 +55,9 @@
 54,"Chile","De Solminihac Tampier, Hernán","man",53,"Sebastián Piñera",2010-03-11,2014-03-11,"Minería",2011-07-18,2014-03-11,1,0,0,0,0,0,0,0,0,0,0,0
 55,"Chile","De Solminihac Tampier, Hernán","man",52,"Sebastián Piñera",2010-03-11,2014-03-11,"Obras Públicas",2010-03-11,2011-07-18,1,0,0,0,0,0,0,0,0,0,0,0
 56,"Chile","De Vicente Mingo, Felix","man",50,"Sebastián Piñera",2010-03-11,2014-03-11,"Economía, Fomento y Turismo",2013-05-07,2014-03-11,1,0,0,0,0,0,0,0,0,0,0,0
-57,"Chile","Delpiano Puelma, Adriana","woman",53,"Ricardo Lagos",2000-03-11,2006-03-11,"Servicio Nacional de la Mujer",2000-03-11,2003-03-03,0,1,0,0,0,0,0,0,0,0,0,0
+57,"Chile","Delpiano Puelma, Adriana","woman",53,"Ricardo Lagos",2000-03-11,2006-03-11,"SERNAM",2000-03-11,2003-03-03,0,1,0,0,0,0,0,0,0,0,0,0
 58,"Chile","Delpiano Puelma, Adriana","woman",47,"Eduardo Frei",1994-03-11,2000-03-11,"Bienes Nacionales",1994-03-11,1999-04-13,0,0,0,0,1,0,0,0,0,0,0,0
-59,"Chile","Dockendorff Vallejos, Eduardo","man",55,"Ricardo Lagos",2000-03-11,2006-03-11,"Secretaría General de la Presidencia",2004-06-03,2006-03-11,0,0,0,0,0,0,0,0,1,1,0,0
+59,"Chile","Dockendorff Vallejos, Eduardo","man",55,"Ricardo Lagos",2000-03-11,2006-03-11,"SEGPRES",2004-06-03,2006-03-11,0,0,0,0,0,0,0,0,1,1,0,0
 60,"Chile","Dulanto Rencoret, Alfonso","man",58,"Ricardo Lagos",2000-03-11,2006-03-11,"Minería",2002-01-07,2006-03-11,1,0,0,0,0,0,0,0,0,0,1,0
 61,"Chile","Echeverría Vial, Fernando","man",57,"Sebastián Piñera",2010-03-11,2014-03-11,"Energía",2011-07-18,2011-07-21,0,1,0,0,0,0,0,0,1,0,1,0
 62,"Chile","Erazo Latorre, Álvaro","man",50,"Michelle Bachelet",2006-03-11,2010-03-11,"Salud",2008-11-06,2010-03-11,0,1,0,0,1,0,1,0,1,1,0,0
@@ -71,7 +71,7 @@
 70,"Chile","Eyzaguirre Guzmán, Nicolás","man",47,"Ricardo Lagos",2000-03-11,2006-03-11,"Hacienda",2000-03-11,2006-03-11,0,1,1,0,1,0,0,0,0,0,0,1
 71,"Chile","Fernández Amunátegui , Mariano","man",63,"Michelle Bachelet",2006-03-11,2010-03-11,"Relaciones Exteriores",2009-03-13,2010-03-11,0,0,0,1,0,0,0,0,1,1,0,0
 72,"Chile","Fernández Baeza, Mario","man",52,"Ricardo Lagos",2000-03-11,2006-03-11,"Defensa Nacional",2000-03-11,2002-01-07,0,0,0,1,0,0,0,0,1,0,0,0
-73,"Chile","Fernández Baeza, Mario","man",54,"Ricardo Lagos",2000-03-11,2006-03-11,"Secretaría General de la Presidencia",2002-01-07,2003-03-03,0,0,0,1,0,0,0,0,1,0,0,0
+73,"Chile","Fernández Baeza, Mario","man",54,"Ricardo Lagos",2000-03-11,2006-03-11,"SEGPRES",2002-01-07,2003-03-03,0,0,0,1,0,0,0,0,1,0,0,0
 74,"Chile","Ferreiro Yazigi, Alejandro","man",40,"Michelle Bachelet",2006-03-11,2010-03-11,"Economía, Fomento y Reconstrucción",2006-07-14,2008-01-08,0,0,0,1,0,0,1,0,1,1,0,0
 75,"Chile","Figueroa Muñoz, Álex","man",34,"Eduardo Frei",1994-03-11,2000-03-11,"Salud",1996-08-07,2000-03-11,0,1,0,0,0,1,0,0,1,1,0,0
 76,"Chile","Figueroa Serrano, Carlos","man",64,"Eduardo Frei",1994-03-11,2000-03-11,"Relaciones Exteriores",1994-03-11,1994-09-20,0,1,0,1,1,0,0,0,1,0,0,1
@@ -84,7 +84,7 @@
 83,"Chile","Galilea Vidaurre, José Antonio","man",48,"Sebastián Piñera",2010-03-11,2014-03-11,"Agricultura",2010-03-11,2011-12-29,0,1,0,0,1,1,1,1,0,0,1,0
 84,"Chile","García Aspillaga, Pedro","man",42,"Ricardo Lagos",2000-03-11,2006-03-11,"Salud",2003-03-03,2006-03-11,0,0,0,0,0,0,1,0,0,0,0,0
 85,"Chile","García Hurtado, Álvaro","man",39,"Eduardo Frei",1994-03-11,2000-03-11,"Economía, Fomento y Reconstrucción",1994-03-11,1998-08-01,0,0,1,0,0,0,0,0,0,1,0,1
-86,"Chile","García Hurtado, Álvaro","man",45,"Ricardo Lagos",2000-03-11,2006-03-11,"Secretaría General de la Presidencia",2000-03-11,2002-01-07,0,1,1,0,1,0,0,0,1,1,0,1
+86,"Chile","García Hurtado, Álvaro","man",45,"Ricardo Lagos",2000-03-11,2006-03-11,"SEGPRES",2000-03-11,2002-01-07,0,1,1,0,1,0,0,0,1,1,0,1
 87,"Chile","García Hurtado, Álvaro","man",43,"Eduardo Frei",1994-03-11,2000-03-11,"Comisión Nacional de Energía",1998-01-01,1998-08-01,0,0,1,0,0,0,0,0,0,1,0,1
 88,"Chile","Golborne Riveros, Laurence","man",48,"Sebastián Piñera",2010-03-11,2014-03-11,"Minería",2010-03-11,2011-07-18,1,0,0,0,0,0,0,0,0,0,1,0
 89,"Chile","Golborne Riveros, Laurence","man",50,"Sebastián Piñera",2010-03-11,2014-03-11,"Obras Públicas",2011-07-18,2012-11-05,1,0,0,0,0,0,0,0,0,0,1,0
@@ -105,10 +105,10 @@
 104,"Chile","Hohmann Barrientos, Claudio","man",42,"Eduardo Frei",1994-03-11,2000-03-11,"Transporte y Telecomunicaciones",1996-09-28,2000-03-11,0,1,0,0,0,0,0,0,0,0,0,0
 105,"Chile","Hornkohl Venegas, Marigen","woman",54,"Michelle Bachelet",2006-03-11,2010-03-11,"Agricultura",2008-01-08,2010-03-11,0,0,0,0,0,0,1,0,0,0,0,0
 106,"Chile","Hornkohl Venegas, Marigen","woman",52,"Ricardo Lagos",2000-03-11,2006-03-11,"Educación",2005-12-14,2006-03-11,0,0,0,0,0,0,1,0,0,0,0,0
-107,"Chile","Huenchumilla Jaramillo, Francisco","man",58,"Ricardo Lagos",2000-03-11,2006-03-11,"Secretaría General de la Presidencia",2003-03-03,2004-06-03,0,0,0,1,0,1,0,1,1,0,0,0
-108,"Chile","Huepe García, Claudio","man",60,"Ricardo Lagos",2000-03-11,2006-03-11,"Secretaría General de Gobierno",2000-03-11,2002-01-07,0,0,0,0,0,1,0,1,1,1,0,0
+107,"Chile","Huenchumilla Jaramillo, Francisco","man",58,"Ricardo Lagos",2000-03-11,2006-03-11,"SEGPRES",2003-03-03,2004-06-03,0,0,0,1,0,1,0,1,1,0,0,0
+108,"Chile","Huepe García, Claudio","man",60,"Ricardo Lagos",2000-03-11,2006-03-11,"SEGEGOB",2000-03-11,2002-01-07,0,0,0,0,0,1,0,1,1,1,0,0
 109,"Chile","Hurtado Ruiz-Tagle, Carlos","man",53,"Patricio Aylwin",1990-03-11,1994-03-11,"Obras Públicas",1990-03-11,1994-03-11,0,0,1,0,0,0,0,0,1,0,1,1
-110,"Chile","Insulza Salinas, José Miguel","man",56,"Eduardo Frei",1994-03-11,2000-03-11,"Secretaría General de la Presidencia",1999-06-22,2000-03-11,0,0,0,1,0,0,0,0,0,0,0,0
+110,"Chile","Insulza Salinas, José Miguel","man",56,"Eduardo Frei",1994-03-11,2000-03-11,"SEGPRES",1999-06-22,2000-03-11,0,0,0,1,0,0,0,0,0,0,0,0
 111,"Chile","Insulza Salinas, José Miguel","man",56,"Ricardo Lagos",2000-03-11,2006-03-11,"Interior",2000-03-11,2005-05-24,0,1,0,1,1,0,0,0,0,0,0,0
 112,"Chile","Insulza Salinas, José Miguel","man",51,"Eduardo Frei",1994-03-11,2000-03-11,"Relaciones Exteriores",1994-09-20,1999-06-22,0,0,0,1,0,0,0,0,0,0,0,0
 113,"Chile","Irureta Aburto, Narciso","man",69,"Eduardo Frei",1994-03-11,2000-03-11,"Transporte y Telecomunicaciones",1994-03-11,1996-09-28,0,1,0,1,0,1,0,1,1,1,0,0
@@ -122,10 +122,10 @@
 121,"Chile","Krauss Valle, Alejandra","woman",43,"Ricardo Lagos",2000-03-11,2006-03-11,"MIDEPLAN",2000-03-11,2002-01-07,0,0,0,1,0,0,0,0,1,0,0,1
 122,"Chile","Lagos Escobar, Ricardo","man",56,"Eduardo Frei",1994-03-11,2000-03-11,"Obras Públicas",1994-03-11,1998-08-01,0,0,0,1,0,1,0,0,0,0,0,1
 123,"Chile","Lagos Escobar, Ricardo","man",52,"Patricio Aylwin",1990-03-11,1994-03-11,"Educación",1990-03-11,1992-09-28,0,0,0,1,0,1,0,0,0,0,0,1
-124,"Chile","Lagos Weber, Ricardo","man",44,"Michelle Bachelet",2006-03-11,2010-03-11,"Secretaría General de Gobierno",2006-03-11,2007-12-06,0,0,0,1,1,0,0,0,0,0,0,1
+124,"Chile","Lagos Weber, Ricardo","man",44,"Michelle Bachelet",2006-03-11,2010-03-11,"SEGEGOB",2006-03-11,2007-12-06,0,0,0,1,1,0,0,0,0,0,0,1
 125,"Chile","Landerretche Gacitúa, Óscar","man",49,"Eduardo Frei",1994-03-11,2000-03-11,"Comisión Nacional de Energía",1998-11-24,2000-03-11,0,0,1,0,0,0,1,0,0,0,0,0
 126,"Chile","Larraín Bascuñan, Felipe","man",52,"Sebastián Piñera",2010-03-11,2014-03-11,"Hacienda",2010-03-11,2014-03-11,1,0,1,0,1,0,0,0,0,0,1,1
-127,"Chile","Larroulet Vignau, Cristián","man",56,"Sebastián Piñera",2010-03-11,2014-03-11,"Secretaría General de la Presidencia",2010-03-11,2014-03-11,1,0,1,0,1,0,1,0,1,0,1,1
+127,"Chile","Larroulet Vignau, Cristián","man",56,"Sebastián Piñera",2010-03-11,2014-03-11,"SEGPRES",2010-03-11,2014-03-11,1,0,1,0,1,0,1,0,1,0,1,1
 128,"Chile","Lavados Montes, Hugo","man",58,"Michelle Bachelet",2006-03-11,2010-03-11,"Economía, Fomento y Reconstrucción",2008-01-08,2010-03-11,0,0,1,0,0,0,1,0,0,0,1,0
 129,"Chile","Lavín Infante, Joaquín","man",57,"Sebastián Piñera",2010-03-11,2014-03-11,"MIDEPLAN",2011-07-18,2013-06-06,0,0,1,0,0,1,0,0,0,0,0,1
 130,"Chile","Lavín Infante, Joaquín","man",56,"Sebastián Piñera",2010-03-11,2014-03-11,"Educación",2010-03-11,2011-07-18,0,0,1,0,0,1,0,0,0,0,0,1
@@ -143,7 +143,7 @@
 142,"Chile","Mayol Bouchon, Luis","man",59,"Sebastián Piñera",2010-03-11,2014-03-11,"Agricultura",2011-12-29,2014-03-11,0,1,0,1,0,0,0,0,0,0,1,0
 143,"Chile","Mañalich Muxi, Jaime","man",55,"Sebastián Piñera",2010-03-11,2014-03-11,"Salud",2010-03-11,2014-03-11,1,0,0,0,1,0,0,0,1,0,1,0
 144,"Chile","Merino Catalán, Camila","woman",42,"Sebastián Piñera",2010-03-11,2014-03-11,"Trabajo y Previsión Social",2010-03-11,2011-01-14,1,0,0,0,0,0,0,0,1,0,1,0
-145,"Chile","Mladinic Alonso, Carlos","man",44,"Eduardo Frei",1994-03-11,2000-03-11,"Secretaría General de Gobierno",1999-06-22,2000-03-11,0,1,1,0,1,1,0,0,0,0,0,0
+145,"Chile","Mladinic Alonso, Carlos","man",44,"Eduardo Frei",1994-03-11,2000-03-11,"SEGEGOB",1999-06-22,2000-03-11,0,1,1,0,1,1,0,0,0,0,0,0
 146,"Chile","Mladinic Alonso, Carlos","man",41,"Eduardo Frei",1994-03-11,2000-03-11,"Agricultura",1996-09-28,1999-06-22,0,1,1,0,1,1,0,0,0,0,0,0
 147,"Chile","Molina Silva, Sergio","man",65,"Eduardo Frei",1994-03-11,2000-03-11,"Educación",1994-09-26,1996-09-28,0,1,1,0,1,0,1,0,1,1,0,0
 148,"Chile","Molina Silva, Sergio","man",61,"Patricio Aylwin",1990-03-11,1994-03-11,"MIDEPLAN",1990-03-11,1994-03-11,0,1,1,0,1,0,1,0,1,1,0,0
@@ -152,10 +152,10 @@
 151,"Chile","Montt Momberg, Julio","man",66,"Patricio Aylwin",1990-03-11,1994-03-11,"Salud",1992-10-30,1994-03-11,0,1,0,0,0,0,0,1,1,0,1,1
 152,"Chile","Morandé Lavín, Felipe","man",54,"Sebastián Piñera",2010-03-11,2014-03-11,"Transporte y Telecomunicaciones",2010-03-11,2011-01-14,1,0,1,0,1,0,0,0,0,0,1,1
 153,"Chile","Moreno Charme, Alfredo","man",53,"Sebastián Piñera",2010-03-11,2014-03-11,"Relaciones Exteriores",2010-03-11,2014-03-11,1,0,0,0,1,0,0,0,1,0,1,1
-154,"Chile","Muñoz Valenzuela, Heraldo","man",53,"Ricardo Lagos",2000-03-11,2006-03-11,"Secretaría General de Gobierno",2002-01-07,2003-03-03,0,0,0,0,1,0,0,0,0,0,0,0
+154,"Chile","Muñoz Valenzuela, Heraldo","man",53,"Ricardo Lagos",2000-03-11,2006-03-11,"SEGEGOB",2002-01-07,2003-03-03,0,0,0,0,1,0,0,0,0,0,0,0
 155,"Chile","Ominami Pascual, Carlos","man",39,"Patricio Aylwin",1990-03-11,1994-03-11,"Economía, Fomento y Reconstrucción",1990-03-11,1992-09-28,0,0,1,0,0,0,0,0,0,0,0,1
 156,"Chile","Orrego Larraín, Claudio","man",34,"Ricardo Lagos",2000-03-11,2006-03-11,"Bienes Nacionales",2000-03-11,2000-12-29,0,0,0,1,0,0,0,0,1,1,0,1
-157,"Chile","Orrego Larraín, Claudio","man",34,"Ricardo Lagos",2000-03-11,2006-03-11,"Vivienda y urbanismo",2000-03-11,2000-12-29,0,0,0,1,0,0,0,0,1,1,0,1
+157,"Chile","Orrego Larraín, Claudio","man",34,"Ricardo Lagos",2000-03-11,2006-03-11,"Vivienda y Urbanismo",2000-03-11,2000-12-29,0,0,0,1,0,0,0,0,1,1,0,1
 158,"Chile","Ortega Riquelme, Emiliano","man",56,"Eduardo Frei",1994-03-11,2000-03-11,"Agricultura",1994-03-11,1996-09-28,0,1,0,0,1,0,1,0,1,1,0,1
 159,"Chile","Palma Irarrázaval, Andrés","man",47,"Ricardo Lagos",2000-03-11,2006-03-11,"MIDEPLAN",2003-03-03,2004-09-29,0,0,0,0,0,1,0,1,1,0,0,1
 160,"Chile","Parot Donoso, Catalina","woman",54,"Sebastián Piñera",2010-03-11,2014-03-11,"Bienes Nacionales",2010-03-11,2012-11-05,0,1,0,1,1,1,0,0,0,0,0,1
@@ -165,11 +165,11 @@
 164,"Chile","Poniachik Pollak, Karen","woman",40,"Michelle Bachelet",2006-03-11,2010-03-11,"Minería",2006-03-11,2008-01-08,1,0,0,0,0,0,0,0,1,0,0,0
 165,"Chile","Provoste Campillay, Yasna","woman",36,"Michelle Bachelet",2006-03-11,2010-03-11,"Educación",2006-07-14,2008-04-03,0,0,0,0,0,0,0,0,1,0,0,0
 166,"Chile","Provoste Campillay, Yasna","woman",34,"Ricardo Lagos",2000-03-11,2006-03-11,"MIDEPLAN",2004-09-29,2006-03-11,0,0,0,0,0,0,0,0,1,0,0,0
-167,"Chile","Puccio Huidobro, Osvaldo","man",52,"Ricardo Lagos",2000-03-11,2006-03-11,"Secretaría General de Gobierno",2005-05-24,2006-03-11,0,0,0,1,1,0,0,0,1,1,0,1
+167,"Chile","Puccio Huidobro, Osvaldo","man",52,"Ricardo Lagos",2000-03-11,2006-03-11,"SEGEGOB",2005-05-24,2006-03-11,0,0,0,1,1,0,0,0,1,1,0,1
 168,"Chile","Pérez Díaz, Cecilia","woman",35,"Ricardo Lagos",2000-03-11,2006-03-11,"MIDEPLAN",2002-01-07,2003-03-03,1,0,0,0,0,0,0,0,0,0,0,0
-169,"Chile","Pérez Díaz, Cecilia","woman",36,"Ricardo Lagos",2000-03-11,2006-03-11,"Servicio Nacional de la Mujer",2003-03-03,2006-03-11,1,0,0,0,0,0,0,0,0,0,0,0
+169,"Chile","Pérez Díaz, Cecilia","woman",36,"Ricardo Lagos",2000-03-11,2006-03-11,"SERNAM",2003-03-03,2006-03-11,1,0,0,0,0,0,0,0,0,0,0,0
 170,"Chile","Pérez Goldberg, Patricia","woman",38,"Sebastián Piñera",2010-03-11,2014-03-11,"Justicia",2012-12-17,2014-03-11,1,0,0,1,0,0,0,0,0,0,0,0
-171,"Chile","Pérez Jara, Cecilia","woman",38,"Sebastián Piñera",2010-03-11,2014-03-11,"Secretaría General de Gobierno",2012-11-05,2014-03-11,0,1,0,1,1,1,1,0,0,0,0,0
+171,"Chile","Pérez Jara, Cecilia","woman",38,"Sebastián Piñera",2010-03-11,2014-03-11,"SEGEGOB",2012-11-05,2014-03-11,0,1,0,1,1,1,1,0,0,0,0,0
 172,"Chile","Pérez Mackenna, Rodrigo","man",51,"Sebastián Piñera",2010-03-11,2014-03-11,"Bienes Nacionales",2012-11-05,2014-03-11,1,0,0,0,0,0,0,0,0,0,1,1
 173,"Chile","Pérez Mackenna, Rodrigo","man",50,"Sebastián Piñera",2010-03-11,2014-03-11,"Vivienda y Urbanismo",2011-04-19,2014-03-11,1,0,0,0,0,0,0,0,0,0,1,1
 174,"Chile","Pérez Yoma, Edmundo","man",55,"Eduardo Frei",1994-03-11,2000-03-11,"Defensa Nacional",1994-03-11,1998-01-16,0,1,1,0,1,1,0,0,0,0,1,1
@@ -180,9 +180,9 @@
 179,"Chile","Rainieri Bernain, Ricardo","man",48,"Sebastián Piñera",2010-03-11,2014-03-11,"Energía",2010-03-11,2011-01-14,1,0,1,0,1,0,0,0,1,0,0,0
 180,"Chile","Ravinet de La Fuente, Jaime","man",57,"Ricardo Lagos",2000-03-11,2006-03-11,"Defensa Nacional",2004-10-01,2006-03-11,0,0,0,1,0,0,1,0,1,1,0,0
 181,"Chile","Ravinet de La Fuente, Jaime","man",63,"Sebastián Piñera",2010-03-11,2014-03-11,"Defensa Nacional",2010-03-11,2011-01-14,1,0,0,1,0,0,1,0,0,1,1,0
-182,"Chile","Ravinet de La Fuente, Jaime","man",54,"Ricardo Lagos",2000-03-11,2006-03-11,"Vivienda y urbanismo",2000-12-29,2004-10-01,0,0,0,1,0,0,1,0,1,1,0,0
+182,"Chile","Ravinet de La Fuente, Jaime","man",54,"Ricardo Lagos",2000-03-11,2006-03-11,"Vivienda y Urbanismo",2000-12-29,2004-10-01,0,0,0,1,0,0,1,0,1,1,0,0
 183,"Chile","Ravinet de La Fuente, Jaime","man",54,"Ricardo Lagos",2000-03-11,2006-03-11,"Bienes Nacionales",2000-12-29,2004-10-01,0,0,0,1,0,0,1,0,1,1,0,0
-184,"Chile","Rebolledo González, Víctor Manuel","man",44,"Eduardo Frei",1994-03-11,2000-03-11,"Secretaría General de Gobierno",1994-03-11,1994-09-20,0,0,0,1,1,1,0,1,0,0,0,0
+184,"Chile","Rebolledo González, Víctor Manuel","man",44,"Eduardo Frei",1994-03-11,2000-03-11,"SEGEGOB",1994-03-11,1994-09-20,0,0,0,1,1,1,0,1,0,0,0,0
 185,"Chile","Ribera Neumann, Teodoro","man",53,"Sebastián Piñera",2010-03-11,2014-03-11,"Justicia",2011-07-18,2012-12-17,0,1,0,1,1,0,0,1,0,0,0,1
 186,"Chile","Rodríguez Grossi, Jorge","man",53,"Ricardo Lagos",2000-03-11,2006-03-11,"Economía, Fomento y Reconstrucción",2001-06-19,2006-03-11,0,0,0,0,0,0,1,0,0,0,1,0
 187,"Chile","Rodríguez Grossi, Jorge","man",53,"Ricardo Lagos",2000-03-11,2006-03-11,"Minería",2001-06-19,2002-01-07,0,0,0,0,0,0,1,0,0,0,1,0
@@ -195,8 +195,8 @@
 194,"Chile","Schiefelbein Fuenzalida, Ernesto","man",59,"Eduardo Frei",1994-03-11,2000-03-11,"Educación",1994-03-11,1994-09-20,1,0,0,0,1,0,0,0,1,1,0,0
 195,"Chile","Schmidt Crnosija, Romy","woman",40,"Michelle Bachelet",2006-03-11,2010-03-11,"Bienes Nacionales",2006-03-11,2010-01-06,0,0,0,1,0,0,0,0,1,1,0,0
 196,"Chile","Schmidt Zaldívar, Carolina","woman",43,"Sebastián Piñera",2010-03-11,2014-03-11,"Educación",2013-04-22,2014-03-11,1,0,0,0,0,0,0,0,0,0,1,1
-197,"Chile","Schmidt Zaldívar, Carolina","woman",40,"Sebastián Piñera",2010-03-11,2014-03-11,"Servicio Nacional de la Mujer",2010-03-11,2013-04-22,1,0,0,0,0,0,0,0,0,0,1,1
-198,"Chile","Seguel King, Loreto","woman",36,"Sebastián Piñera",2010-03-11,2014-03-11,"Servicio Nacional de la Mujer",2013-04-22,2014-03-11,0,0,0,0,1,0,0,0,1,1,0,0
+197,"Chile","Schmidt Zaldívar, Carolina","woman",40,"Sebastián Piñera",2010-03-11,2014-03-11,"SERNAM",2010-03-11,2013-04-22,1,0,0,0,0,0,0,0,0,0,1,1
+198,"Chile","Seguel King, Loreto","woman",36,"Sebastián Piñera",2010-03-11,2014-03-11,"SERNAM",2013-04-22,2014-03-11,0,0,0,0,1,0,0,0,1,1,0,0
 199,"Chile","Serrano Madrid, Claudia","woman",51,"Michelle Bachelet",2006-03-11,2010-03-11,"Trabajo y Previsión Social",2008-12-15,2010-03-11,0,1,0,0,1,0,0,0,1,1,0,0
 200,"Chile","Silva Cimma, Enrique","man",71,"Patricio Aylwin",1990-03-11,1994-03-11,"Relaciones Exteriores",1990-03-11,1994-03-11,0,0,0,1,1,1,1,0,1,0,0,1
 201,"Chile","Silva Rojas, María Loreto","woman",48,"Sebastián Piñera",2010-03-11,2014-03-11,"Obras Públicas",2012-11-05,2014-03-11,1,0,0,1,0,0,0,0,0,0,0,0
@@ -206,28 +206,28 @@
 205,"Chile","Tohá González, Jaime","man",55,"Patricio Aylwin",1990-03-11,1994-03-11,"Economía, Fomento y Reconstrucción",1993-12-15,1994-03-11,0,0,0,0,0,0,0,0,0,0,0,1
 206,"Chile","Tohá González, Jaime","man",60,"Eduardo Frei",1994-03-11,2000-03-11,"Obras Públicas",1998-08-01,2000-03-09,0,0,0,0,1,0,1,0,0,0,0,1
 207,"Chile","Tohá González, Jaime","man",51,"Patricio Aylwin",1990-03-11,1994-03-11,"Comisión Nacional de Energía",1990-03-11,1994-03-11,0,0,0,0,0,0,0,0,0,0,0,1
-208,"Chile","Tohá Morales, Carolina","woman",43,"Michelle Bachelet",2006-03-11,2010-03-11,"Secretaría General de Gobierno",2009-03-12,2009-12-14,0,0,0,1,1,1,0,1,1,1,0,1
+208,"Chile","Tohá Morales, Carolina","woman",43,"Michelle Bachelet",2006-03-11,2010-03-11,"SEGEGOB",2009-03-12,2009-12-14,0,0,0,1,1,1,0,1,1,1,0,1
 209,"Chile","Tokman Ramos, Marcelo","man",39,"Michelle Bachelet",2006-03-11,2010-03-11,"Comisión Nacional de Energía",2007-03-26,2010-03-11,0,0,1,0,0,0,0,0,1,1,0,0
 210,"Chile","Troncoso Castillo, Raúl","man",63,"Eduardo Frei",1994-03-11,2000-03-11,"Interior",1998-08-01,2000-03-11,0,1,0,1,1,0,1,0,0,0,0,0
 211,"Chile","Troncoso Castillo, Raúl","man",62,"Eduardo Frei",1994-03-11,2000-03-11,"Defensa Nacional",1998-01-16,1998-08-01,0,1,0,1,1,0,1,0,0,0,0,0
-212,"Chile","Tschorne Berestesky, Sonia","woman",49,"Ricardo Lagos",2000-03-11,2006-03-11,"Vivienda y urbanismo",2004-09-29,2006-03-11,0,1,0,0,0,0,1,0,0,0,0,0
+212,"Chile","Tschorne Berestesky, Sonia","woman",49,"Ricardo Lagos",2000-03-11,2006-03-11,"Vivienda y Urbanismo",2004-09-29,2006-03-11,0,1,0,0,0,0,1,0,0,0,0,0
 213,"Chile","Tschorne Berestesky, Sonia","woman",49,"Ricardo Lagos",2000-03-11,2006-03-11,"Bienes Nacionales",2004-09-29,2006-03-11,0,1,0,0,0,0,1,0,0,0,0,0
 214,"Chile","Uriarte Rodríguez, Ana Lya","woman",44,"Michelle Bachelet",2006-03-11,2010-03-11,"Comisión Nacional de Medio Ambiente",2007-03-26,2010-03-11,0,1,0,1,1,0,0,0,0,0,0,0
 215,"Chile","Urrutia Fernández, Paulina","woman",37,"Michelle Bachelet",2006-03-11,2010-03-11,"Consejo Nacional de la Cultura y las Artes",2006-03-11,2010-03-11,1,0,0,0,0,0,0,0,1,0,0,0
 216,"Chile","Valdés Soublette, Juan Gabriel","man",52,"Eduardo Frei",1994-03-11,2000-03-11,"Relaciones Exteriores",1999-06-22,2000-03-11,0,0,0,1,1,0,0,0,0,0,0,1
 217,"Chile","Velasco Baraona, Belisario","man",70,"Michelle Bachelet",2006-03-11,2010-03-11,"Interior",2006-07-14,2008-01-04,0,0,0,0,0,1,0,0,0,0,1,0
 218,"Chile","Velasco Brañes , Andrés","man",45,"Michelle Bachelet",2006-03-11,2010-03-11,"Hacienda",2006-03-11,2010-03-11,1,0,1,0,1,0,1,0,1,1,0,1
-219,"Chile","Veloso Valenzuela, Paulina","woman",49,"Michelle Bachelet",2006-03-11,2010-03-11,"Secretaría General de la Presidencia",2006-03-11,2007-03-26,0,1,0,1,1,0,1,0,0,0,0,1
-220,"Chile","Vidal Salinas, Francisco","man",49,"Ricardo Lagos",2000-03-11,2006-03-11,"Secretaría General de Gobierno",2003-03-03,2005-05-24,0,1,0,0,1,1,0,0,1,0,0,0
+219,"Chile","Veloso Valenzuela, Paulina","woman",49,"Michelle Bachelet",2006-03-11,2010-03-11,"SEGPRES",2006-03-11,2007-03-26,0,1,0,1,1,0,1,0,0,0,0,1
+220,"Chile","Vidal Salinas, Francisco","man",49,"Ricardo Lagos",2000-03-11,2006-03-11,"SEGEGOB",2003-03-03,2005-05-24,0,1,0,0,1,1,0,0,1,0,0,0
 221,"Chile","Vidal Salinas, Francisco","man",51,"Ricardo Lagos",2000-03-11,2006-03-11,"Interior",2005-05-24,2006-03-11,0,1,0,0,1,1,0,0,1,0,0,0
-222,"Chile","Vidal Salinas, Francisco","man",54,"Michelle Bachelet",2006-03-11,2010-03-11,"Secretaría General de Gobierno",2007-12-06,2009-03-12,0,0,0,0,0,1,1,0,1,0,0,0
+222,"Chile","Vidal Salinas, Francisco","man",54,"Michelle Bachelet",2006-03-11,2010-03-11,"SEGEGOB",2007-12-06,2009-03-12,0,0,0,0,0,1,1,0,1,0,0,0
 223,"Chile","Vidal Salinas, Francisco","man",55,"Michelle Bachelet",2006-03-11,2010-03-11,"Defensa Nacional",2009-03-12,2010-03-11,0,0,0,0,0,1,1,0,1,0,0,0
-224,"Chile","Viera-Gallo Quesney, José Antonio","man",63,"Michelle Bachelet",2006-03-11,2010-03-11,"Secretaría General de la Presidencia",2007-03-26,2010-03-11,0,1,0,1,0,1,0,1,1,0,0,1
-225,"Chile","Villarzú Rohde, Juan","man",52,"Eduardo Frei",1994-03-11,2000-03-11,"Secretaría General de la Presidencia",1996-09-28,1998-08-01,0,1,0,0,1,0,1,0,0,0,1,0
-226,"Chile","Von Baer Jahn, Ena","woman",35,"Sebastián Piñera",2010-03-11,2014-03-11,"Secretaría General de Gobierno",2010-03-11,2011-07-18,0,0,0,0,0,0,0,0,0,0,0,0
-227,"Chile","Walker Prieto, Ignacio","man",48,"Ricardo Lagos",2000-03-11,2006-03-11,"RELACIONES EXTERIORES",2004-09-29,2006-03-11,0,0,0,1,0,1,0,1,1,0,0,1
+224,"Chile","Viera-Gallo Quesney, José Antonio","man",63,"Michelle Bachelet",2006-03-11,2010-03-11,"SEGPRES",2007-03-26,2010-03-11,0,1,0,1,0,1,0,1,1,0,0,1
+225,"Chile","Villarzú Rohde, Juan","man",52,"Eduardo Frei",1994-03-11,2000-03-11,"SEGPRES",1996-09-28,1998-08-01,0,1,0,0,1,0,1,0,0,0,1,0
+226,"Chile","Von Baer Jahn, Ena","woman",35,"Sebastián Piñera",2010-03-11,2014-03-11,"SEGEGOB",2010-03-11,2011-07-18,0,0,0,0,0,0,0,0,0,0,0,0
+227,"Chile","Walker Prieto, Ignacio","man",48,"Ricardo Lagos",2000-03-11,2006-03-11,"Relaciones Exteriores",2004-09-29,2006-03-11,0,0,0,1,0,1,0,1,1,0,0,1
 228,"Chile","Weinstein Cayuela, José","man",44,"Ricardo Lagos",2000-03-11,2006-03-11,"Consejo Nacional de la Cultura y las Artes",2003-08-06,2006-03-11,0,1,0,0,1,0,0,0,1,1,0,0
 229,"Chile","Weinstein Levy, Jacqueline","woman",61,"Michelle Bachelet",2006-03-11,2010-03-11,"Bienes Nacionales",2010-01-06,2010-03-11,0,0,0,0,0,0,0,0,1,1,0,0
-230,"Chile","Zaldívar Larraín , Andrés","man",69,"Michelle Bachelet",2006-03-11,2010-03-11,"Interior",2006-03-11,2006-07-14,0,0,0,1,0,1,0,1,1,0,0,1
+230,"Chile","Zaldívar Larraín, Andrés","man",69,"Michelle Bachelet",2006-03-11,2010-03-11,"Interior",2006-03-11,2006-07-14,0,0,0,1,0,1,0,1,1,0,0,1
 231,"Chile","Zilic Hrepic, Martín","man",58,"Michelle Bachelet",2006-03-11,2010-03-11,"Educación",2006-03-11,2006-07-14,0,0,0,0,1,1,0,0,0,0,0,0
 232,"Chile","Álvarez Zenteno, Rodrigo","man",44,"Sebastián Piñera",2010-03-11,2014-03-11,"Energía",2011-07-22,2012-03-27,0,0,0,1,0,1,0,1,0,0,0,0
