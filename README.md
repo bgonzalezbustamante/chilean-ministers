@@ -1,7 +1,7 @@
 # chilean-ministers
 **Data Set on Chilean Ministers (1990-2014)**
 
-[![Version](https://img.shields.io/badge/version-v2.2.0-blue.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/chilean-ministers.svg)](https://github.com/bgonzalezbustamante/chilean-ministers/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/chilean-ministers.svg)](https://github.com/bgonzalezbustamante/chilean-ministers/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-TBC-blue)](CHANGELOG.md) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](LICENSE.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/)
+[![Version](https://img.shields.io/badge/version-v2.3.0-blue.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/chilean-ministers.svg)](https://github.com/bgonzalezbustamante/chilean-ministers/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/chilean-ministers.svg)](https://github.com/bgonzalezbustamante/chilean-ministers/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-TBC-blue)](CHANGELOG.md) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](LICENSE.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/)
 
 ## Overview
 
@@ -27,6 +27,10 @@ This data is stored with version control on a GitHub repository. Furthermore, a 
 |-- README.md \
 |-- STATUS.md \
 |-- code \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- eda_ministers.md \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- eda_ministers.Rmd \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- potential_inconsistencies.md \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- potential_inconsistencies.Rmd \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- eda_ministers_files \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- figure-gfm \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- plot1-1.png \
@@ -34,10 +38,6 @@ This data is stored with version control on a GitHub repository. Furthermore, a 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- plot2-2.png \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- plot3-1.png \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- plot4-1.png \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- eda_ministers.md \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- eda_ministers.Rmd \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- potential_inconsistencies.md \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- potential_inconsistencies.Rmd \
 |-- data \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- Chilean_cabinets_1990_2014.csv 
 
@@ -63,13 +63,13 @@ We recommend that users run exploratory data analysis code from the root directo
 
 ### Replication Instructions
 
-The folder "code" contains the exploratory data analysis in R, RMD and MD formats ([**eda_ministers.md**](code/eda_ministers.md)).
+Folder "code" contains the exploratory data analysis in R, RMD, and MD formats ([**eda_ministers.md**](code/eda_ministers.md)).
 
 The files will be overwritten if you run the R script contained in "eda_ministers.Rmd".
 
 ### Codebook
 
-The file "Chilean_cabinets_1990_2014.csv" is the data set on Chilean ministers between 1990 and 2014. This set contains 232 observations.
+The file "**Chilean_cabinets_1990_2014.csv**" in "data" folder is the data set on Chilean ministers between 1990 and 2014. This set contains 232 observations.
 
 - **id**. Unique ID for each minister-portfolio observation.
 
@@ -133,7 +133,7 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B., & Olivares, A. (2021). Data Set on Chilean Ministers (1990-2014) (Version 2.2.0 -- Sparkling Surf) [Data set].
+González-Bustamante, B., & Olivares, A. (2021). Data Set on Chilean Ministers (1990-2014) (Version 2.3.0 -- Bold Fog) [Data set].
 
 ## Authors
 
@@ -154,6 +154,6 @@ Alejandro Olivares ([ORCID iD 0000-0001-6934-2437](https://orcid.org/0000-0001-6
 
 ### Latest Revision
 
-[November 29, 2021](CHANGELOG.md).
+[November 30, 2021](CHANGELOG.md).
 
-[^1]: González-Bustamante, B., & Olivares, A. (2021). Data Set on Chilean Undersecretaries (1990-2014) (Version 1.4.3 -- Super Lake) [Data set]. DOI: [10.5281/zenodo.5715384](https://doi.org/10.5281/zenodo.5715384)
+[^1]: González-Bustamante, B., & Olivares, A. (2021). Data Set on Chilean Undersecretaries (1990-2014) (Version 1.4.4 -- Yellow Bonus) [Data set]. DOI: [10.5281/zenodo.5715384](https://doi.org/10.5281/zenodo.5715384)
