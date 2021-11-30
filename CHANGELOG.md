@@ -9,14 +9,16 @@ All notable changes to "Data Set on Chilean Ministers (1990-2014)" will be docum
 ### Removed
 - Potential inconsistencies code.
 
-## [2.3.0] - TBC
-### Added
-- Potential inconsistencies code.
-- Zenodo DOI.
-### Deprecated
-- Potential inconsistencies code.
-
 ## [Released]
+
+## [2.3.0] - 2021-11-30
+### Added
+- Potential inconsistencies code (WIP).
+- Zenodo DOI (WIP).
+### Changed
+- Minor corrections.
+### Deprecated
+- Potential inconsistencies code (WIP).
 
 ## [2.2.0] - 2021-11-29
 ### Added
