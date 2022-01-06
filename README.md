@@ -17,27 +17,29 @@ This repository contains a data set on Chilean ministers between 1990 and 2014 i
 
 This data is stored with version control on a GitHub repository. Furthermore, a Digital Object Identifier is provided by Zenodo. The structure of the repository is detailed below.
 
-*chilean-ministers* \
-|-- .gitignore \
-|-- CHANGELOG.md \
-|-- chilean-ministers.Rproj \
-|-- CITATION.cff \
-|-- CODE_OF_CONDUCT.md \
-|-- LICENSE.md \
-|-- README.md \
-|-- STATUS.md \
-|-- code \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- eda_ministers.md \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- eda_ministers.Rmd \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- eda_ministers_files \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- figure-gfm \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- plot1-1.png \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- plot2-1.png \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- plot2-2.png \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- plot3-1.png \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- plot4-1.png \
-|-- data \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- Chilean_cabinets_1990_2014.csv 
+``` r
+chilean-ministers
+|-- .gitignore
+|-- CHANGELOG.md
+|-- chilean-ministers.Rproj
+|-- CITATION.cff
+|-- CODE_OF_CONDUCT.md
+|-- LICENSE.md
+|-- README.md
+|-- STATUS.md
+|-- code
+    |-- eda_ministers.md
+    |-- eda_ministers.Rmd
+    |-- eda_ministers_files
+        |-- figure-gfm
+            |-- plot1-1.png
+            |-- plot2-1.png
+            |-- plot2-2.png
+            |-- plot3-1.png
+            |-- plot4-1.png
+|-- data
+    |-- Chilean_cabinets_1990_2014.csv 
+```
 
 4 directories and 17 files.
 
