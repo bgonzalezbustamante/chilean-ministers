@@ -1,7 +1,7 @@
 # chilean-ministers
 **Data Set on Chilean Ministers (1990-2014)**
 
-[![Version](https://img.shields.io/badge/version-v2.3.0-blue.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/chilean-ministers.svg)](https://github.com/bgonzalezbustamante/chilean-ministers/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/chilean-ministers.svg)](https://github.com/bgonzalezbustamante/chilean-ministers/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://zenodo.org/badge/432335926.svg)](https://zenodo.org/badge/latestdoi/432335926) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](LICENSE.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/)
+[![Version](https://img.shields.io/badge/version-v3.0.0-blue.svg)](CHANGELOG.md) [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/chilean-ministers.svg)](https://github.com/bgonzalezbustamante/chilean-ministers/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/chilean-ministers.svg)](https://github.com/bgonzalezbustamante/chilean-ministers/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://zenodo.org/badge/432335926.svg)](https://zenodo.org/badge/latestdoi/432335926) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](LICENSE.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/)
 
 ## Overview
 
@@ -39,11 +39,11 @@ This data is stored with version control on a GitHub repository. Furthermore, a 
 |-- data \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- Chilean_cabinets_1990_2014.csv 
 
-4 directories and 16 files.
+4 directories and 17 files.
 
 In addition, this README file in Markdown (MD) format provides specific information to ensure the reusability of the data.
 
-## Store and Backup
+## Storage and Backup
 
 The GitHub repository has controlled access with Two-Factor Authentication (2FA) with two physical USB security devices (Bastián González-Bustamante, [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)) and a mobile application (Alejandro Olivares, [ORCID iD 0000-0001-6934-2437](https://orcid.org/0000-0001-6934-2437)). USB devices and the mobile application issue one-time passwords to generate a cryptographic authentication FIDO2 and U2F.
 
@@ -131,7 +131,7 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B., & Olivares, A. (2021). Data Set on Chilean Ministers (1990-2014) (Version 2.3.0 -- Bold Fog) [Data set]. DOI: [10.5281/zenodo.5744536](https://doi.org/10.5281/zenodo.5744536)
+González-Bustamante, B., & Olivares, A. (2022). Data Set on Chilean Ministers (1990-2014) (Version 3.0.0 -- Sparkling Snow) [Data set]. DOI: [10.5281/zenodo.5744536](https://doi.org/10.5281/zenodo.5744536)
 
 ## Authors
 
@@ -152,7 +152,7 @@ Alejandro Olivares ([ORCID iD 0000-0001-6934-2437](https://orcid.org/0000-0001-6
 
 ### Latest Revision
 
-[November 30, 2021](CHANGELOG.md).
+[January 6, 2022](CHANGELOG.md).
 
 [^1]: In version 2.3.0 (Bold Fog), we have corrected the sex of one misclassified observation of the Ricardo Lagos government. This implies a slight drop in the presence of women in the cabinet from 24.53% to 22.64% and subtle differences in coefficients of the models in some of our previous publications.
 [^2]: The labels SEGEGOB, SEGPRES, and SERNAM correspond to the following ministries: *Secretaría General de Gobierno*, *Secretaría General de la Presidencia*, and *Servicio Nacional de la Mujer*. In addition, CORFO is an acronym for *Corporación de Fomento de la Producción*.
