@@ -3,11 +3,11 @@ All notable changes to "Data Set on Chilean Ministers (1990-2014)" will be docum
 
 ## [Unreleased]
 
-## [3.0.0] - TBC
+## [Released]
+
+## [3.0.0] - 2022-01-06
 ### Changed
 - Minor corrections.
-
-## [Released]
 
 ## [2.3.0] - 2021-11-30
 ### Added
