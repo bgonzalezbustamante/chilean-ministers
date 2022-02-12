@@ -59,7 +59,35 @@ We use R version 4.1.0 (2021-05-18) -- "Camp Pontanezen".
 
 Required R libraries are: "DataExplorer" and "ggplot2".
 
-We recommend that users run exploratory data analysis code from the root directory using the R project "**chilean-ministers.Rproj**".
+We recommend that users import the data directly using the code below or, if they wish, run exploratory data analysis code from the root directory using the R project "**chilean-ministers.Rproj**".
+
+### Import Data
+
+``` r
+## Code R
+
+## GitHub Repository
+github_1 <- "https://raw.githubusercontent.com/"
+github_2 <- "bgonzalezbustamante/chilean-ministers/main/data/tidy/"
+
+## Chilean Ministers Data
+chilean_ministers <- read.csv(paste(github_1, github_2, "Chilean_cabinets_1990_2014.csv", sep = ""),
+                              header = T, sep = ",", encoding = "UTF-8")
+```
+
+``` python
+## Code Python
+
+import pandas as pd
+
+## GitHub Repository
+github_1 = "https://raw.githubusercontent.com/"
+github_2 = "bgonzalezbustamante/chilean-ministers/main/data/tidy/"
+
+## Chilean Ministers Data
+url = github_1 + github_2 + "Chilean_cabinets_1990_2014.csv"
+df = pd.read_csv(url, index_col=0)
+```
 
 ### Replication Instructions
 
