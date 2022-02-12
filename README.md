@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository contains a data set on Chilean ministers between 1990 and 2014 in Comma-Separated Values (CSV) format with Unicode encoding (UTF-8). The data collection was carried out based on official sources such as archives of Congress and ministries, the National Library, and press archives. Part of this data has been used in the following articles and book chapter:
+This repository contains a data set on Chilean ministers between 1990 and 2014 in Comma-Separated Values (CSV) format with Unicode encoding (UTF-8). The data collection was carried out based on official sources such as archives of Congress and ministries, the National Library, and press archives. Part of this data has been used in the following articles and book chapter ([download BibTeX file](refs/BIB-Ministers.bib)):
 
 - González-Bustamante, B. (2020). The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition. *Bulletin of Latin American Research, 39*(5), 582-597. DOI: [10.1111/blar.13044](https://doi.org/10.1111/blar.13044)
 
