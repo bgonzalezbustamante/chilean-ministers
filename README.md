@@ -75,9 +75,9 @@ chilean_ministers <- read.csv(paste(github_1, github_2, "Chilean_cabinets_1990_2
                               header = T, sep = ",", encoding = "UTF-8")
 ```
 
-``` python
-## Code Python
+#### Python Code
 
+``` python
 import pandas as pd
 
 ## GitHub Repository
