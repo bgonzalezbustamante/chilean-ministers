@@ -24,7 +24,7 @@ library(DataExplorer)
 library(ggplot2)
 
 ## Data
-data_CHL <- read.csv("data/Chilean_cabinets_1990_2014.csv", encoding = "UTF-8")
+data_CHL <- read.csv("data/tidy/Chilean_cabinets_1990_2014.csv", encoding = "UTF-8")
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
