@@ -63,9 +63,9 @@ We recommend that users import the data directly using the code below or, if the
 
 ### Import Data
 
-``` r
-## Code R
+#### R Code
 
+``` r
 ## GitHub Repository
 github_1 <- "https://raw.githubusercontent.com/"
 github_2 <- "bgonzalezbustamante/chilean-ministers/main/data/tidy/"
@@ -74,7 +74,6 @@ github_2 <- "bgonzalezbustamante/chilean-ministers/main/data/tidy/"
 chilean_ministers <- read.csv(paste(github_1, github_2, "Chilean_cabinets_1990_2014.csv", sep = ""),
                               header = T, sep = ",", encoding = "UTF-8")
 ```
-
 #### Python Code
 
 ``` python
