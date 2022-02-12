@@ -28,6 +28,11 @@ chilean-ministers
 |-- README.md
 |-- STATUS.md
 |-- code
+    |-- eda_ministers.R
+|-- data
+    |-- tidy
+        |-- Chilean_cabinets_1990_2014.csv 
+|-- demo
     |-- eda_ministers.md
     |-- eda_ministers.Rmd
     |-- eda_ministers_files
@@ -37,11 +42,11 @@ chilean-ministers
             |-- plot2-2.png
             |-- plot3-1.png
             |-- plot4-1.png
-|-- data
-    |-- Chilean_cabinets_1990_2014.csv 
+|-- refs
+    |-- BIB-Ministers.bib
 ```
 
-4 directories and 17 files.
+7 directories and 18 files.
 
 In addition, this README file in Markdown (MD) format provides specific information to ensure the reusability of the data.
 
