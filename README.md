@@ -28,6 +28,11 @@ chilean-ministers
 |-- README.md
 |-- STATUS.md
 |-- code
+    |-- eda_ministers.R
+|-- data
+    |-- tidy
+        |-- Chilean_cabinets_1990_2014.csv 
+|-- demo
     |-- eda_ministers.md
     |-- eda_ministers.Rmd
     |-- eda_ministers_files
@@ -37,11 +42,11 @@ chilean-ministers
             |-- plot2-2.png
             |-- plot3-1.png
             |-- plot4-1.png
-|-- data
-    |-- Chilean_cabinets_1990_2014.csv 
+|-- refs
+    |-- BIB-Ministers.bib
 ```
 
-4 directories and 17 files.
+7 directories and 18 files.
 
 In addition, this README file in Markdown (MD) format provides specific information to ensure the reusability of the data.
 
@@ -90,13 +95,15 @@ df = pd.read_csv(url, index_col=0)
 
 ### Replication Instructions
 
-Folder "code" contains the exploratory data analysis in R, RMD, and MD formats ([**eda_ministers.md**](code/eda_ministers.md)).
+Folder "code" contains the exploratory data analysis in R format.
+
+Folder "demo" contains the exploratory data analysis in RMD and MD formats ([**eda_ministers.md**](demo/eda_ministers.md)).
 
 The files will be overwritten if you run the R script contained in "**eda_ministers.Rmd**".
 
 ### Codebook
 
-The file "**Chilean_cabinets_1990_2014.csv**" in "data" folder is the data set on Chilean ministers between 1990 and 2014. This set contains 232 observations.
+The file "**Chilean_cabinets_1990_2014.csv**" in "data/tidy" subfolder is the data set on Chilean ministers between 1990 and 2014. This set contains 232 observations.
 
 - **id**. Unique ID for each minister-portfolio observation.
 
@@ -144,7 +151,7 @@ The file "**Chilean_cabinets_1990_2014.csv**" in "data" folder is the data set o
 
 - **political_kinship**. Dummy for ministers with political kinship.
 
-A number of other variables can be calculated with aggregate data from different sources considering the appointment dates and departure of officeholders. In addition, data from González-Bustamante and Olivares (2021)[^3] can be used to compare and obtain some variables from undersecretaries.
+A number of other variables can be calculated with aggregate data from different sources considering the appointment dates and departure of officeholders. In addition, data from González-Bustamante and Olivares (2022)[^3] can be used to compare and obtain some variables from undersecretaries.
 
 ## License
 
