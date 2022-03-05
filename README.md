@@ -1,17 +1,19 @@
 # chilean-ministers
 **Data Set on Chilean Ministers (1990-2014)**
 
-[![Version](https://img.shields.io/badge/version-v3.1.0-blue.svg)](CHANGELOG.md) [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/chilean-ministers.svg)](https://github.com/bgonzalezbustamante/chilean-ministers/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/chilean-ministers.svg)](https://github.com/bgonzalezbustamante/chilean-ministers/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://zenodo.org/badge/432335926.svg)](https://zenodo.org/badge/latestdoi/432335926) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](LICENSE.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/)
+[![Version](https://img.shields.io/badge/version-v3.1.1-blue.svg)](CHANGELOG.md) [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/chilean-ministers.svg)](https://github.com/bgonzalezbustamante/chilean-ministers/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/chilean-ministers.svg)](https://github.com/bgonzalezbustamante/chilean-ministers/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://zenodo.org/badge/432335926.svg)](https://zenodo.org/badge/latestdoi/432335926) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](LICENSE.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/)
 
 ## Overview
 
-This repository contains a data set on Chilean ministers between 1990 and 2014 in Comma-Separated Values (CSV) format with Unicode encoding (UTF-8). The data collection was carried out based on official sources such as archives of Congress and ministries, the National Library, and press archives. Part of this data has been used in the following articles and book chapter ([download BibTeX file](refs/BIB-Ministers.bib)):
+This repository contains a data set on Chilean ministers between 1990 and 2014 in Comma-Separated Values (CSV) format with Unicode encoding (UTF-8). The data collection was carried out based on official sources such as archives of Congress and ministries, the National Library, and press archives. Part of this data has been used in the following articles and book chapter:
 
 - González-Bustamante, B. (2020). The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition. *Bulletin of Latin American Research, 39*(5), 582-597. DOI: [10.1111/blar.13044](https://doi.org/10.1111/blar.13044)
 
 - González-Bustamante, B., & Olivares, A. (2018). La élite política gubernamental en Chile: Supervivencia de ministros. In A. Codato and F. Espinoza (eds.), *Las Élites en las Américas: Diferentes Perspectivas*. Curitiba: Editora Universidade Federal do Paraná. URL: [https://www.researchgate.net](https://www.researchgate.net/publication/325699783_Elites_en_las_Americas_diferentes_perspectivas_Elites_in_the_Americas_Different_Perspectives)
 
 - González-Bustamante, B., & Olivares, A. (2016). Cambios de gabinete y supervivencia de los ministros en Chile durante los gobiernos de la Concertación (1990-2010). *Colombia Internacional*, 87, 81-108. DOI: [10.7440/colombiaint87.2016.04](https://doi.org/10.7440/colombiaint87.2016.04)
+
+Download the BibTeX file [here](refs/BIB-Ministers.bib), which includes the biographical data of this repository.
 
 ## Metadata and Preservation
 
@@ -31,7 +33,7 @@ chilean-ministers
     |-- eda_ministers.R
 |-- data
     |-- tidy
-        |-- Chilean_cabinets_1990_2014.csv 
+        |-- Chilean_cabinets_1990_2014.csv
 |-- demo
     |-- eda_ministers.md
     |-- eda_ministers.Rmd
@@ -60,9 +62,7 @@ Moreover, the repository is backed up on Hierarchical File Server (HFS) for reco
 
 ### Software
 
-We use R version 4.1.0 (2021-05-18) -- "Camp Pontanezen".
-
-Required R libraries are: "DataExplorer" and "ggplot2".
+We used R version 4.1.0 (2021-05-18) -- "Camp Pontanezen” and the following packages: “DataExplorer” v0.8.2, “knitr” v1.37, “rmarkdown” v2.11, and “tidyverse” v1.3.1.
 
 We recommend that users import the data directly using the code below or, if they wish, run exploratory data analysis code from the root directory using the R project "**chilean-ministers.Rproj**".
 
@@ -167,14 +167,14 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B., & Olivares, A. (2022). Data Set on Chilean Ministers (1990-2014) (Version 3.1.0 -- Lively Wind) [Data set]. DOI: [10.5281/zenodo.5744536](https://doi.org/10.5281/zenodo.5744536)
+González-Bustamante, B., & Olivares, A. (2022). Data Set on Chilean Ministers (1990-2014) (Version 3.1.1 -- Long Math) [Data set]. DOI: [10.5281/zenodo.5744536](https://doi.org/10.5281/zenodo.5744536)
 
 ## Authors
 
 Bastián González-Bustamante \
 bastian.gonzalezbustamante@politics.ox.ac.uk \
 [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820) \
-https://bgonzalezbustamante.com 
+https://bgonzalezbustamante.com
 
 Alejandro Olivares \
 alejandro.olivares@uct.cl \
@@ -188,7 +188,7 @@ Alejandro Olivares ([ORCID iD 0000-0001-6934-2437](https://orcid.org/0000-0001-6
 
 ### Latest Revision
 
-[February 12, 2022](CHANGELOG.md).
+[March 5, 2022](CHANGELOG.md).
 
 [^1]: In version 2.3.0 (Bold Fog), we have corrected the sex of one misclassified observation of the Ricardo Lagos government. This implies a slight drop in the presence of women in the cabinet from 24.53% to 22.64% and subtle differences in coefficients of the models in some of our previous publications.
 [^2]: The labels SEGEGOB, SEGPRES, and SERNAM correspond to the following ministries: *Secretaría General de Gobierno*, *Secretaría General de la Presidencia*, and *Servicio Nacional de la Mujer*. In addition, CORFO is an acronym for *Corporación de Fomento de la Producción*.
