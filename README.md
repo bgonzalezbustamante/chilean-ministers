@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository contains a data set on Chilean ministers between 1990 and 2014 in Comma-Separated Values (`CSV`) format with Unicode encoding (UTF-8). The data collection was carried out based on official sources such as archives of Congress and ministries, the National Library, and press archives. Part of this data set has been used in the following articles and book chapter:
+This repository contains a data set on Chilean ministers between 1990 and 2014 in Comma-Separated Values `CSV` format with Unicode encoding `UTF-8`. The data collection was carried out based on official sources such as archives of Congress and ministries, the National Library, and press archives. Part of this data set has been used in the following articles and book chapter:
 
 - González-Bustamante, B. (2020). The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition. *Bulletin of Latin American Research, 39*(5), 582-597. DOI: [10.1111/blar.13044](https://doi.org/10.1111/blar.13044)
 
@@ -17,7 +17,7 @@ Download the BibTeX file [here](refs/BIB-Ministers.bib), which includes the bibl
 
 ## Metadata and Preservation
 
-This data set is stored with version control on a GitHub repository. Furthermore, a Digital Object Identifier is provided by Zenodo. The structure of the repository is detailed below.
+This data set is stored with version control on a GitHub repository. Furthermore, a Digital Object Identifier `DOI` is provided by Zenodo. The structure of the repository is detailed below.
 
 ``` r
 chilean-ministers
@@ -50,21 +50,21 @@ chilean-ministers
 
 7 directories and 18 files.
 
-In addition, this README file in Markdown (MD) format provides specific information to ensure the reusability of the data.
+In addition, this README file in Markdown `MD` format provides specific information to ensure the reusability of the data.
 
 ## Storage and Backup
 
-The GitHub repository has controlled access with Two-Factor Authentication (2FA) with two physical USB security devices (Bastián González-Bustamante, [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)) and a mobile application (Alejandro Olivares, [ORCID iD 0000-0001-6934-2437](https://orcid.org/0000-0001-6934-2437)). USB devices and the mobile application issue one-time passwords to generate a cryptographic authentication FIDO2 and U2F.
+The GitHub repository has controlled access with Two-Factor Authentication `2FA` with two physical USB security devices (Bastián González-Bustamante, [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)) and a mobile application (Alejandro Olivares, [ORCID iD 0000-0001-6934-2437](https://orcid.org/0000-0001-6934-2437)). USB devices and the mobile application issue one-time passwords to generate a cryptographic authentication `FIDO2` and `U2F`.
 
-Moreover, the repository is backed up on Hierarchical File Server (HFS) for recovery in case of incidents. This backup is located on the University of Oxford hub connected to Code42 Cloud Backup encrypted with 256-bit AES. The backup is performed with every change on GitHub and receives weekly light maintenance and a deep one every month. This backup will be secured until May 2024. An extension of this period will be evaluated on budget availability.
+Moreover, the repository is backed up on Hierarchical File Server `HFS` for recovery in case of incidents. This backup is located on the University of Oxford hub connected to Code42 Cloud Backup encrypted with `256-bit AES`. The backup is performed with every change on GitHub and receives weekly light maintenance and a deep one every month. This backup will be secured until May 2024. An extension of this period will be evaluated on budget availability.
 
 ## Getting Started
 
 ### Software
 
-We used R version 4.1.0 (2021-05-18) -- "Camp Pontanezen" and the following packages: "DataExplorer" v0.8.2, "knitr" v1.37, "rmarkdown" v2.11, and "tidyverse" v1.3.1.
+We used `R` version 4.1.0 (2021-05-18) -- "Camp Pontanezen" and the following packages: `DataExplorer` v0.8.2, `knitr` v1.37, `rmarkdown` v2.11, and `tidyverse` v1.3.1.
 
-We recommend that users import the data directly using the code below or, if they wish, run exploratory data analysis code from the root directory using the R project "**chilean-ministers.Rproj**".
+We recommend that users import the data directly using the code below or, if they wish, run exploratory data analysis code from the root directory using the R project `chilean-ministers.Rproj`.
 
 ### Import Data
 
@@ -95,17 +95,17 @@ df = pd.read_csv(url, index_col=0)
 
 ### Replication Instructions
 
-Folder "code" contains the exploratory data analysis in R format.
+Folder `code` contains the exploratory data analysis in `R` format.
 
-Folder "demo" contains the exploratory data analysis in RMD and MD formats ([**eda_ministers.md**](demo/eda_ministers.md)).
+Folder `demo` contains the exploratory data analysis in `RMD` and `MD` formats [`eda_ministers.md`](demo/eda_ministers.md).
 
-The files will be overwritten if you run the R script contained in "**eda_ministers.Rmd**".
+The files will be overwritten if you run the R script contained in `eda_ministers.Rmd`.
 
 ### Codebook
 
-The file "**Chilean_cabinets_1990_2014.csv**" in "data/tidy" subfolder is the data set on Chilean ministers between 1990 and 2014. This set contains 232 observations.
+The file `Chilean_cabinets_1990_2014.csv` in `data/tidy` subfolder is the data set on Chilean ministers between 1990 and 2014. This set contains 232 observations.
 
-- **id**. Unique ID for each minister-portfolio observation.
+- `id`. Unique ID for each minister-portfolio observation.
 
 - **country**. Country name.
 
@@ -167,7 +167,7 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B., & Olivares, A. (2022). Data Set on Chilean Ministers (1990-2014) (Version 3.1.2 -- Old Mode) [Data set]. DOI: [10.5281/zenodo.5744536](https://doi.org/10.5281/zenodo.5744536)
+González-Bustamante, B., & Olivares, A. (2022). Data Set on Chilean Ministers (1990-2014) (Version 3.2.1 -- Old Mode) [Data set]. DOI: [10.5281/zenodo.5744536](https://doi.org/10.5281/zenodo.5744536)
 
 ## Authors
 
