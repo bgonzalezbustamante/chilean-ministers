@@ -116,39 +116,39 @@ The file `Chilean_cabinets_1990_2014.csv` in `data/tidy` subfolder is the data s
 
 - `president`. President in office.
 
-- `start_president`. Start date of presidential term.
+- `start_president`. Start date of presidential term in the format `YYYY-MM-DD`.
 
-- `end_president`. End date of presidential term.
+- `end_president`. End date of presidential term in the format `YYYY-MM-DD`.
 
 - `ministry`. Portfolio name.[^2]
 
-- `start_minister`. Officeholder start date.
+- `start_minister`. Officeholder start date in the format `YYYY-MM-DD`.
 
-- `end_minister`. Officeholder end date.
+- `end_minister`. Officeholder end date in the format `YYYY-MM-DD`.
 
-- `non_party`. Dummy for non-partisan ministers.
+- `non_party`. A dummy variable indicating whether the minister is non-partisan.
 
-- `president_party`. Dummy for ministers of the president’s party.
+- `president_party`. A dummy variable indicating whether the minister is a member of the president's party.
 
-- `economist`. Dummy for economist ministers.
+- `economist`. A dummy variable indicating whether the minister is an economist.
 
-- `lawyer`. Dummy for lawyer ministers.
+- `lawyer`. A dummy variable indicating whether the minister is a lawyer.
 
-- `inner_circle`. Dummy for members of the president’s inner circle.
+- `inner_circle`. A dummy variable indicating whether the minister is a member of the president's inner circle.
 
-- `party_leader`. Dummy for party leaders.
+- `party_leader`. A dummy variable indicating whether the minister is a party leader.
 
-- `exp_executive`. Dummy for former cabinet members.
+- `exp_executive`. A dummy variable indicating whether the minister is a former cabinet member.
 
-- `exp_congress`. Dummy for former Congress members.
+- `exp_congress`. A dummy variable indicating whether the minister was a former Congress member.
 
-- `exp_ngo`. Dummy for former NGOs members.
+- `exp_ngo`. A dummy variable indicating whether the minister is a former NGOs member.
 
-- `exp_thinktanks`. Dummy for former think tanks members.
+- `exp_thinktanks`. A dummy variable indicating whether the minister is a former think tank member.
 
-- `exp_business`. Dummy for trajectories in business.
+- `exp_business`. A dummy variable indicating whether the minister has a previous trajectory in business.
 
-- `political_kinship`. Dummy for ministers with political kinship.
+- `political_kinship`. A dummy variable indicating whether the minister has political kinship.
 
 A number of other variables can be calculated with aggregate data from different sources considering the appointment dates and departure of officeholders. In addition, data from González-Bustamante and Olivares (2022)[^3] can be used to compare and obtain some variables from undersecretaries.
 
