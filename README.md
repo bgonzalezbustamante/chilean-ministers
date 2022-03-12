@@ -63,7 +63,7 @@ Moreover, the repository is backed up on Hierarchical File Server `HFS` for reco
 
 We used `R` version 4.1.0 (2021-05-18) -- "Camp Pontanezen" and the following packages: `DataExplorer` v0.8.2, `knitr` v1.37, `rmarkdown` v2.11, and `tidyverse` v1.3.1.
 
-We recommend that users import the data directly using the code below or, if they wish, run exploratory data analysis code from the root directory using the R project `chilean-ministers.Rproj`.
+We recommend that users import the data directly using the code below or, if they wish, run exploratory data analysis code from the root directory using the `R` project `chilean-ministers.Rproj`.
 
 ### Import Data
 
@@ -98,7 +98,7 @@ Folder `code` contains the exploratory data analysis in `R` format.
 
 Folder `demo` contains the exploratory data analysis in `RMD` and `MD` formats: [`eda_ministers.md`](demo/eda_ministers.md).
 
-The files will be overwritten if you run the R script contained in `eda_ministers.Rmd`.
+The files will be overwritten if you run the `R` script contained in `eda_ministers.Rmd`.
 
 ### Codebook
 
