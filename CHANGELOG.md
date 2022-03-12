@@ -3,7 +3,9 @@ All notable changes to "Data Set on Chilean Ministers (1990-2014)" will be docum
 
 ## [Unreleased]
 
-## [3.1.2] - 2022-03-14
+## [3.2.1] - 2022-03-14
+### Added
+- Codebook in XeLaTeX.
 ### Changed
 - Minor corrections.
 
