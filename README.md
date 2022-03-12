@@ -44,11 +44,19 @@ chilean-ministers
             |-- plot2-2.png
             |-- plot3-1.png
             |-- plot4-1.png
+|-- demo
+    |-- codebook_ministers.aux
+    |-- codebook_ministers.log
+    |-- codebook_ministers.out
+    |-- codebook_ministers.pdf
+    |-- codebook_ministers.synctex.gz
+    |-- codebook_ministers.tex
+    |-- codebook_ministers.toc
 |-- refs
     |-- BIB-Ministers.bib
 ```
 
-7 directories and 18 files.
+8 directories and 25 files.
 
 In addition, this `README` file in Markdown `MD` format provides specific information to ensure the reusability of the data.
 ## Storage and Backup
