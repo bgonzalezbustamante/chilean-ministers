@@ -1,6 +1,0 @@
-\babel@toc {english}{}\relax 
-\thispagestyle {empty}
-\contentsline {section}{Getting Started}{2}{section*.1}%
-\contentsline {section}{Chilean\_cabinets\_1990\_2014}{3}{section*.2}%
-\contentsline {section}{License}{6}{section*.3}%
-\contentsline {section}{Citation}{7}{section*.4}%
