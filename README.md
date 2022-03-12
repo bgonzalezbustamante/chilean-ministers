@@ -17,7 +17,7 @@ Download the BibTeX file [here](refs/BIB-Ministers.bib), which includes the bibl
 
 ## Metadata and Preservation
 
-This data set is stored with version control on a GitHub repository. Furthermore, a Digital Object Identifier `DOI` is provided by Zenodo. The structure of the repository is detailed below.
+This data set is stored with version control on a GitHub repository. Furthermore, a Digital Object Identifier is provided by Zenodo. The structure of the repository is detailed below.
 
 ``` r
 chilean-ministers
@@ -56,7 +56,7 @@ In addition, this README file in Markdown `MD` format provides specific informat
 
 The GitHub repository has controlled access with Two-Factor Authentication `2FA` with two physical USB security devices (Bastián González-Bustamante, [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)) and a mobile application (Alejandro Olivares, [ORCID iD 0000-0001-6934-2437](https://orcid.org/0000-0001-6934-2437)). USB devices and the mobile application issue one-time passwords to generate a cryptographic authentication `FIDO2` and `U2F`.
 
-Moreover, the repository is backed up on Hierarchical File Server `HFS` for recovery in case of incidents. This backup is located on the University of Oxford hub connected to Code42 Cloud Backup encrypted with `256-bit AES`. The backup is performed with every change on GitHub and receives weekly light maintenance and a deep one every month. This backup will be secured until May 2024. An extension of this period will be evaluated on budget availability.
+Moreover, the repository is backed up on Hierarchical File Server `HFS` for recovery in case of incidents. This backup is located on the University of Oxford hub connected to `Code42` Cloud Backup encrypted with `256-bit AES`. The backup is performed with every change on GitHub and receives weekly light maintenance and a deep one every month. This backup will be secured until May 2024. An extension of this period will be evaluated on budget availability.
 
 ## Getting Started
 
@@ -97,7 +97,7 @@ df = pd.read_csv(url, index_col=0)
 
 Folder `code` contains the exploratory data analysis in `R` format.
 
-Folder `demo` contains the exploratory data analysis in `RMD` and `MD` formats [`eda_ministers.md`](demo/eda_ministers.md).
+Folder `demo` contains the exploratory data analysis in `RMD` and `MD` formats: [`eda_ministers.md`](demo/eda_ministers.md).
 
 The files will be overwritten if you run the R script contained in `eda_ministers.Rmd`.
 
@@ -107,49 +107,49 @@ The file `Chilean_cabinets_1990_2014.csv` in `data/tidy` subfolder is the data s
 
 - `id`. Unique ID for each minister-portfolio observation.
 
-- **country**. Country name.
+- `country`. Country name.
 
-- **name**. Officeholder name.
+- `name`. Officeholder name.
 
-- **sex**. Officeholder sex.[^1]
+- `sex`. Officeholder sex.[^1]
 
-- **age**. Officeholder age when was appointed.
+- `age`. Officeholder age when was appointed.
 
-- **president**. President in office.
+- `president`. President in office.
 
-- **start_president**. Start date of presidential term.
+- `start_president`. Start date of presidential term.
 
-- **end_president**. End date of presidential term.
+- `end_president`. End date of presidential term.
 
-- **ministry**. Portfolio name.[^2]
+- `ministry`. Portfolio name.[^2]
 
-- **start_minister**. Officeholder start date.
+- `start_minister`. Officeholder start date.
 
-- **end_minister**. Officeholder end date.
+- `end_minister`. Officeholder end date.
 
-- **non_party**. Dummy for non-partisan ministers.
+- `non_party`. Dummy for non-partisan ministers.
 
-- **president_party**. Dummy for ministers of the president’s party.
+- `president_party`. Dummy for ministers of the president’s party.
 
-- **economist**. Dummy for economist ministers.
+- `economist`. Dummy for economist ministers.
 
-- **lawyer**. Dummy for lawyer ministers.
+- `lawyer`. Dummy for lawyer ministers.
 
-- **inner_circle**. Dummy for members of the president’s inner circle.
+- `inner_circle`. Dummy for members of the president’s inner circle.
 
-- **party_leader**. Dummy for party leaders.
+- `party_leader`. Dummy for party leaders.
 
-- **exp_executive**. Dummy for former cabinet members.
+- `exp_executive`. Dummy for former cabinet members.
 
-- **exp_congress**. Dummy for former Congress members.
+- `exp_congress`. Dummy for former Congress members.
 
-- **exp_ngo**. Dummy for former NGOs members.
+- `exp_ngo`. Dummy for former NGOs members.
 
-- **exp_thinktanks**. Dummy for former think tanks members.
+- `exp_thinktanks`. Dummy for former think tanks members.
 
-- **exp_business**. Dummy for trajectories in business.
+- `exp_business`. Dummy for trajectories in business.
 
-- **political_kinship**. Dummy for ministers with political kinship.
+- `political_kinship`. Dummy for ministers with political kinship.
 
 A number of other variables can be calculated with aggregate data from different sources considering the appointment dates and departure of officeholders. In addition, data from González-Bustamante and Olivares (2022)[^3] can be used to compare and obtain some variables from undersecretaries.
 
