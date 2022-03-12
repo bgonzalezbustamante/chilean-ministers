@@ -44,7 +44,7 @@ chilean-ministers
             |-- plot2-2.png
             |-- plot3-1.png
             |-- plot4-1.png
-|-- demo
+|-- docs
     |-- codebook_ministers.pdf
     |-- codebook_ministers.synctex.gz
     |-- codebook_ministers.tex
