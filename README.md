@@ -106,7 +106,7 @@ The files will be overwritten if you run the `R` script contained in `eda_minist
 
 ### Codebook
 
-The file `Chilean_cabinets_1990_2014.csv` in `data/tidy` subfolder is the data set on Chilean ministers between 1990 and 2014. This set contains 232 observations.
+The file `Chilean_cabinets_1990_2014.csv` in `data/tidy` subfolder is the data set on Chilean ministers between 1990 and 2014. This set contains 232 observations. The codebook is also available in [`PDF`](docs/codebook_ministers.pdf).
 
 - `id`. Unique ID for each minister-portfolio observation.
 
