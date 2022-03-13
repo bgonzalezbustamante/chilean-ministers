@@ -154,7 +154,7 @@ The file `Chilean_cabinets_1990_2014.csv` in `data/tidy` subfolder is the data s
 
 - `political_kinship`. A dummy variable indicating whether the minister has political kinship.
 
-A number of other variables can be calculated with aggregate data from different sources considering the appointment dates and departure of officeholders. In addition, data from González-Bustamante and Olivares (2022)[^3] can be used to compare and obtain some variables from undersecretaries.
+A number of other variables can be calculated with aggregate data from different sources considering the appointment dates and departure of officeholders. In addition, data from González-Bustamante and Olivares (2022)[^4] can be used to compare and obtain some variables from undersecretaries.
 
 ## License
 
