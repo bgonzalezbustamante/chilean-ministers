@@ -65,7 +65,7 @@ Moreover, the repository is backed up on Hierarchical File Server `HFS` for reco
 
 ### Software
 
-We used `R` version 4.1.0 (2021-05-18) -- "Camp Pontanezen" and the following packages: `DataExplorer` v0.8.2, `knitr` v1.37, `rmarkdown` v2.11, and `tidyverse` v1.3.1.
+We used `R v4.1.0 -- Camp Pontanezen` and the following packages: `DataExplorer v0.8.2`, `knitr v1.37`, `rmarkdown v2.11`, and `tidyverse v1.3.1`.
 
 We recommend that users import the data directly using the code below or, if they wish, run exploratory data analysis code from the root directory using the `R` project `chilean-ministers.Rproj`.
 
@@ -106,7 +106,7 @@ The files will be overwritten if you run the `R` script contained in `eda_minist
 
 ### Codebook
 
-The file `Chilean_cabinets_1990_2014.csv` in `data/tidy` subfolder is the data set on Chilean ministers between 1990 and 2014. This set contains 232 observations. The codebook is also available in [`PDF`](docs/codebook_ministers.pdf).
+The file `Chilean_cabinets_1990_2014.csv` in `data/tidy` subfolder is the data set on Chilean ministers between 1990 and 2014. This set contains 232 observations.[^1] The codebook is also available in [`PDF`](docs/codebook_ministers.pdf).
 
 - `id`. Unique ID for each minister-portfolio observation.
 
@@ -114,7 +114,7 @@ The file `Chilean_cabinets_1990_2014.csv` in `data/tidy` subfolder is the data s
 
 - `name`. Officeholder name.
 
-- `sex`. Officeholder sex.[^1]
+- `sex`. Officeholder sex.[^2]
 
 - `age`. Officeholder age when was appointed.
 
@@ -124,7 +124,7 @@ The file `Chilean_cabinets_1990_2014.csv` in `data/tidy` subfolder is the data s
 
 - `end_president`. End date of presidential term in the format `YYYY-MM-DD`.
 
-- `ministry`. Portfolio name.[^2]
+- `ministry`. Portfolio name.[^3]
 
 - `start_minister`. Officeholder start date in the format `YYYY-MM-DD`.
 
@@ -187,12 +187,13 @@ alejandro.olivares@uct.cl \
 
 Bastián González-Bustamante ([ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)): Conceptualisation, data curation, formal analysis, funding acquisition, methodology, project administration, resources, software, validation, and visualisation.
 
-Alejandro Olivares ([ORCID iD 0000-0001-6934-2437](https://orcid.org/0000-0001-6934-2437)): Conceptualisation, funding acquisition, investigation, methodology, project administration, resources, and validation.
+Alejandro Olivares ([ORCID iD 0000-0001-6934-2437](https://orcid.org/0000-0001-6934-2437)): Conceptualisation, funding acquisition, investigation, methodology, resources, and validation.
 
 ### Latest Revision
 
 [March 14, 2022](CHANGELOG.md).
 
-[^1]: In version 2.3.0 (Bold Fog), we have corrected the sex of one misclassified observation of the Ricardo Lagos government. This implies a slight drop in the presence of women in the cabinet from 24.53% to 22.64% and subtle differences in coefficients of the models in some of our previous publications.
-[^2]: The labels `SEGEGOB`, `SEGPRES`, and `SERNAM` correspond to the following ministries: *Secretaría General de Gobierno*, *Secretaría General de la Presidencia*, and *Servicio Nacional de la Mujer*. In addition, `CORFO` is an acronym for *Corporación de Fomento de la Producción*.
-[^3]: González-Bustamante, B., & Olivares, A. (2022). Data Set on Chilean Undersecretaries (1990-2022) (Version 2.0.0 -- Sparkling Shape) [Data set]. DOI: [10.5281/zenodo.5715384](https://doi.org/10.5281/zenodo.5715384)
+[^1]: The latest release with changes in the data set is `v2.3.0 -- Bold Fog`.
+[^2]: In `v2.3.0 -- Bold Fog`, we have corrected the sex of one misclassified observation of the Ricardo Lagos government. This implies a slight drop in the presence of women in the cabinet from 24.53% to 22.64% and subtle differences in coefficients of the models in some of our previous publications.
+[^3]: The labels `SEGEGOB`, `SEGPRES`, and `SERNAM` correspond to the following ministries: *Secretaría General de Gobierno*, *Secretaría General de la Presidencia*, and *Servicio Nacional de la Mujer*. In addition, `CORFO` is an acronym for *Corporación de Fomento de la Producción*.
+[^4]: González-Bustamante, B., & Olivares, A. (2022). Data Set on Chilean Undersecretaries (1990-2022) (Version 2.0.0 -- Sparkling Shape) [Data set]. DOI: [10.5281/zenodo.5715384](https://doi.org/10.5281/zenodo.5715384)
