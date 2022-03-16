@@ -12,12 +12,16 @@
 
 ## Data Set on Chilean Ministers
 ## https://github.com/bgonzalezbustamante/chilean-ministers
+## https://doi.org/10.5281/zenodo.5744536
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 #### Packages and Data ####
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+## Clean Environment
+rm(list = ls())
 
 ## Packages
 library(DataExplorer)
