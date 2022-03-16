@@ -3,7 +3,7 @@ All notable changes to "Data Set on Chilean Ministers (1990-2014)" will be docum
 
 ## [Unreleased]
 
-## [3.2.3] - 2022-03-15
+## [3.2.3] - 2022-03-16
 ### Changed
 - Minor corrections.
 
