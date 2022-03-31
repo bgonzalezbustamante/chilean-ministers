@@ -27,6 +27,8 @@ chilean-ministers
 |-- CITATION.cff
 |-- CODE_OF_CONDUCT.md
 |-- LICENSE.md
+|-- LPPL13.md
+|-- MIT.md
 |-- README.md
 |-- STATUS.md
 |-- code
@@ -52,9 +54,10 @@ chilean-ministers
     |-- BIB-Ministers.bib
 ```
 
-8 directories and 21 files.
+8 directories and 23 files.
 
 In addition, this `README` file in Markdown `MD` format provides specific information to ensure the reusability of the data.
+
 ## Storage and Backup
 
 The GitHub repository has controlled access with Two-Factor Authentication `2FA` with two physical USB security devices (Bastián González-Bustamante, [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)) and a mobile application (Alejandro Olivares, [ORCID iD 0000-0001-6934-2437](https://orcid.org/0000-0001-6934-2437)). USB devices and the mobile application issue one-time passwords to generate a cryptographic authentication `FIDO2` and `U2F`.
