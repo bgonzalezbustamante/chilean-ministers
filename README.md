@@ -1,7 +1,7 @@
 # chilean-ministers
 **Data Set on Chilean Ministers (1990-2014)**
 
-[![Version](https://img.shields.io/badge/version-v3.3.4-blue.svg)](CHANGELOG.md) [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/chilean-ministers.svg)](https://github.com/bgonzalezbustamante/chilean-ministers/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/chilean-ministers.svg)](https://github.com/bgonzalezbustamante/chilean-ministers/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://zenodo.org/badge/432335926.svg)](https://zenodo.org/badge/latestdoi/432335926) [![License](https://img.shields.io/badge/license-CC%20BY--4.0-black)](LICENSE.md) [![License](https://img.shields.io/badge/license-MIT-black)](MIT.md) [![License](https://img.shields.io/badge/license-LPPL%20v1.3c-black)](LPPL13.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/) [![Latex](https://img.shields.io/badge/made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![Version](https://img.shields.io/badge/version-v3.3.4-blue.svg)](CHANGELOG.md) [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/chilean-ministers.svg)](https://github.com/bgonzalezbustamante/chilean-ministers/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/chilean-ministers.svg)](https://github.com/bgonzalezbustamante/chilean-ministers/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://zenodo.org/badge/432335926.svg)](https://zenodo.org/badge/latestdoi/432335926) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-black)](LICENSE.md) [![License](https://img.shields.io/badge/license-MIT-black)](MIT.md) [![License](https://img.shields.io/badge/license-LPPL%20v1.3c-black)](LPPL13.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/) [![Latex](https://img.shields.io/badge/made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 
 ## Overview
 
@@ -158,7 +158,9 @@ A number of other variables can be calculated with aggregate data from different
 
 ## License
 
-The content of this project itself is licensed under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](LICENSE.md), and the underlying code used to format and display the exploratory data analysis is licensed under a [MIT license](MIT.md). In particular, the codebook has been compiled with XeLaTeX using a code licensed under an [LPPL v1.3c license](LPPL13.md)
+The content of this project itself is licensed under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](LICENSE.md), and the underlying code used to format and display the exploratory data analysis is licensed under an [MIT license](MIT.md). In particular, the codebook has been compiled with XeLaTeX using a code under an [LPPL v1.3c license](LPPL13.md).
+
+The above implies that both data set and underlying code may be shared, reused, adapted as long as appropriate acknowledgement is given.
 
 ## Contribute
 
