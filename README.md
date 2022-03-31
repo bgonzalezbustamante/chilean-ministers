@@ -161,7 +161,7 @@ A number of other variables can be calculated with aggregate data from different
 
 ## License
 
-The content of this project itself is licensed under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](LICENSE.md), and the underlying code used to format and display the exploratory data analysis is licensed under an [MIT license](MIT.md). In particular, the codebook has been compiled with XeLaTeX using a code under an [LPPL v1.3c license](LPPL13.md).
+The content of this project itself is licensed under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](CCBY40.md), and the underlying code used to format and display that content is licensed under an [MIT license](LICENSE.md). In particular, the codebook has been compiled with XeLaTeX using a code under an [LPPL v1.3c license](LPPL13.md).
 
 The above implies that both data set and underlying code may be shared, reused, adapted as long as appropriate acknowledgement is given.
 
