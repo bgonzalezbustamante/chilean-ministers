@@ -3,6 +3,8 @@ All notable changes to "Data Set on Chilean Ministers (1990-2014)" will be docum
 
 ## [Unreleased]
 
+## [Released]
+
 ## [3.3.5] - 2022-04-04
 ### Changed
 - Minor corrections.
@@ -18,8 +20,6 @@ All notable changes to "Data Set on Chilean Ministers (1990-2014)" will be docum
 - LPPL v1.3c license on GitHub repository.
 ### Changed
 - Minor corrections.
-
-## [Released]
 
 ## [3.2.3] - 2022-03-16
 ### Changed
