@@ -3,6 +3,24 @@ All notable changes to "Data Set on Chilean Ministers (1990-2014)" will be docum
 
 ## [Unreleased]
 
+## [Released]
+
+## [3.3.5] - 2022-04-04
+### Changed
+- Minor corrections.
+
+## [3.3.4] - 2022-04-01
+### Changed
+- BibTeX file.
+- Minor corrections.
+
+## [3.3.3] - 2022-03-31
+### Added
+- MIT license on GitHub repository.
+- LPPL v1.3c license on GitHub repository.
+### Changed
+- Minor corrections.
+
 ## [3.2.3] - 2022-03-16
 ### Changed
 - Minor corrections.
@@ -19,8 +37,6 @@ All notable changes to "Data Set on Chilean Ministers (1990-2014)" will be docum
 - BibTeX file.
 - Modify .gitignore file on GitHub repository.
 - Minor corrections.
-
-## [Released]
 
 ## [3.1.1] - 2022-03-05
 ### Changed
@@ -56,7 +72,7 @@ All notable changes to "Data Set on Chilean Ministers (1990-2014)" will be docum
 ### Added
 - GitHub repository.
 - Badges in SVG on GitHub repository.
-- License CC-BY Attribution 4.0 International on GitHub repository.
+- License CC BY 4.0 on GitHub repository.
 - Changelog in MD format on GitHub repository.
 - Repository status badge.
 - Citation CFF file.
