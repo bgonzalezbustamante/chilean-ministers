@@ -7,7 +7,7 @@
 
 This repository contains a data set on Chilean ministers between 1990 and 2014 in Comma-Separated Values `CSV` format with Unicode encoding `UTF-8`. The data collection was carried out based on official sources such as archives of Congress and ministries, the National Library, and press archives. Part of this data set has been used in the following articles and book chapter:
 
-- González-Bustamamante,B. (2022). Ministerial stability during presidential approval crises: The moderating effect of ministers’ attributes on dismissals in Brazil and Chile. The British Journal of Politics and International Relations. OnlineFirst. DOI: [10.1177/13691481221124850](https://doi.org/10.1177/13691481221124850)
+- González-Bustamamante,B. (2022). Ministerial stability during presidential approval crises: The moderating effect of ministers’ attributes on dismissals in Brazil and Chile. *The British Journal of Politics and International Relations*. OnlineFirst. DOI: [10.1177/13691481221124850](https://doi.org/10.1177/13691481221124850)
 
 - Orchard, X., & González-Bustamante, B. (2022). Power Hierarchies and Visibility in the News: Exploring Determinants of Politicians' Presence and Prominence in the Chilean Press (1991-2019). *The International Journal of Press/Politics*. OnlineFirst. DOI: [10.1177/19401612221089482](https://doi.org/10.1177/19401612221089482)
 
