@@ -5,6 +5,11 @@ All notable changes to "Data Set on Chilean Ministers (1990-2014)" will be docum
 
 ## [Released]
 
+## [3.3.7] - 2023-03-05
+### Changed
+- Badges in SVG on GitHub repository.
+- Minor corrections.
+
 ## [3.3.6] - 2022-04-05
 ### Changed
 - Minor corrections.
